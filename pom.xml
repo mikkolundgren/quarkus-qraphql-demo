@@ -75,11 +75,6 @@
               <goal>generate-code</goal>
               <goal>generate-code-tests</goal>
             </goals>
-            <!--
-            <configuration>
-              <additionalBuildArgs>-H:IncludeResources=1000Albums.json</additionalBuildArgs>
-          </configuration>
-        -->
           </execution>
         </executions>
       </plugin>

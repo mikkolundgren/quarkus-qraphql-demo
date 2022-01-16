@@ -24,13 +24,13 @@ public class AlbumService {
     public AlbumService() {
         ObjectMapper mapper = new ObjectMapper();
         try {
-            Album[] tmp = mapper.readValue(Paths.get("1000Albums.json").toFile(), Album[].class);
+            Album[] tmp = mapper.readValue(getClass().getClassLoader().getResourceAsStream("1000Albums.json"), Album[].class);
             for (int i = 0; i < tmp.length; i++) {
                 tmp[i].id = i;
                 albums.add(tmp[i]);
             }
         } catch (IOException e) {
-            e.printStackTrace();
+            logger.error("exception reading albums.", e);
         }
         logger.infov("Read {0} albums...", albums.size());
 
