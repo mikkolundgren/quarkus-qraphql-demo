@@ -1,0 +1,5222 @@
+[
+    {
+        "artist": "Duke Ellington",
+        "title": "Ellington At Newport",
+        "year": "1956"
+    },
+    {
+        "artist": "Elvis Presley",
+        "title": "Elvis Presley",
+        "year": "1956"
+    },
+    {
+        "artist": "Frank Sinatra",
+        "title": "Songs For Swingin' Lovers!",
+        "year": "1956"
+    },
+    {
+        "artist": "Louvin Brothers",
+        "title": "Tragic Songs Of Life",
+        "year": "1956"
+    },
+    {
+        "artist": "Miles Davis",
+        "title": "Birth Of The Cool",
+        "year": "1956"
+    },
+    {
+        "artist": "Count Basie",
+        "title": "The Atomic Mr Basie",
+        "year": "1957"
+    },
+    {
+        "artist": "Fats Domino",
+        "title": "This Is Fats",
+        "year": "1957"
+    },
+    {
+        "artist": "Little Richard",
+        "title": "Here's Little Richard",
+        "year": "1957"
+    },
+    {
+        "artist": "Louis Prima",
+        "title": "The Wildest",
+        "year": "1957"
+    },
+    {
+        "artist": "Machito",
+        "title": "Kenya",
+        "year": "1957"
+    },
+    {
+        "artist": "Sabu Martinez",
+        "title": "Palo Congo",
+        "year": "1957"
+    },
+    {
+        "artist": "Thelonious Monk",
+        "title": "Brilliant Corners",
+        "year": "1957"
+    },
+    {
+        "artist": "Billie Holiday",
+        "title": "Lady In Satin",
+        "year": "1958"
+    },
+    {
+        "artist": "Ramblin' Jack Elliott",
+        "title": "Jack Takes The Floor",
+        "year": "1958"
+    },
+    {
+        "artist": "Sarah Vaughan",
+        "title": "Sarah Vaughan At Mister Kelly's",
+        "year": "1958"
+    },
+    {
+        "artist": "Tito Puente & His Orchestra",
+        "title": "Dance Mania Vol 1",
+        "year": "1958"
+    },
+    {
+        "artist": "Dave Brubeck Quartet",
+        "title": "Time Out",
+        "year": "1959"
+    },
+    {
+        "artist": "Ella Fitzgerald",
+        "title": "Sings The Gershwin Song Book",
+        "year": "1959"
+    },
+    {
+        "artist": "Marty Robbins",
+        "title": "Gunfighter Ballads And Trail Songs",
+        "year": "1959"
+    },
+    {
+        "artist": "Miles Davis",
+        "title": "Kind Of Blue",
+        "year": "1959"
+    },
+    {
+        "artist": "Ray Charles",
+        "title": "The Genius Of Ray Charles",
+        "year": "1959"
+    },
+    {
+        "artist": "Elvis Presley",
+        "title": "Elvis Is Back!",
+        "year": "1960"
+    },
+    {
+        "artist": "Joan Baez",
+        "title": "Joan Baez",
+        "year": "1960"
+    },
+    {
+        "artist": "Miriam Makeba",
+        "title": "Miriam Makeba",
+        "year": "1960"
+    },
+    {
+        "artist": "Muddy Waters",
+        "title": "Muddy Waters At Newport",
+        "year": "1960"
+    },
+    {
+        "artist": "Bill Evans",
+        "title": "Sunday At The Village Vanguard",
+        "year": "1961"
+    },
+    {
+        "artist": "Jimmy Smith",
+        "title": "Back At The Chicken Shack",
+        "year": "1961"
+    },
+    {
+        "artist": "Booker T & The MGs",
+        "title": "Green Onions",
+        "year": "1962"
+    },
+    {
+        "artist": "Ray Charles",
+        "title": "Modern Sounds In Country And Western Music",
+        "year": "1962"
+    },
+    {
+        "artist": "Stan Getz & Charlie Byrd",
+        "title": "Jazz Samba",
+        "year": "1962"
+    },
+    {
+        "artist": "Charles Mingus",
+        "title": "The Black Saint And The Sinner Lady",
+        "year": "1963"
+    },
+    {
+        "artist": "James Brown",
+        "title": "Live At The Apollo",
+        "year": "1963"
+    },
+    {
+        "artist": "Phil Spector",
+        "title": "A Christmas Gift For You",
+        "year": "1963"
+    },
+    {
+        "artist": "Ray Price",
+        "title": "Night Life",
+        "year": "1963"
+    },
+    {
+        "artist": "Sam Cooke",
+        "title": "Live At The Harlem Square",
+        "year": "1963"
+    },
+    {
+        "artist": "The Beatles",
+        "title": "With The Beatles",
+        "year": "1963"
+    },
+    {
+        "artist": "Bert Jansch",
+        "title": "Bert Jansch",
+        "year": "1964"
+    },
+    {
+        "artist": "Bob Dylan",
+        "title": "The Freewheelin' Bob Dylan",
+        "year": "1964"
+    },
+    {
+        "artist": "Dusty Springfield",
+        "title": "A Girl Called Dusty",
+        "year": "1964"
+    },
+    {
+        "artist": "Jacques Brel",
+        "title": "Olympia 64",
+        "year": "1964"
+    },
+    {
+        "artist": "John Coltrane",
+        "title": "A Love Supreme",
+        "year": "1964"
+    },
+    {
+        "artist": "Solomon Burke",
+        "title": "Rock 'N' Soul",
+        "year": "1964"
+    },
+    {
+        "artist": "Stan Getz & Joao Gilberto",
+        "title": "Getz/Gilberto",
+        "year": "1964"
+    },
+    {
+        "artist": "The Beatles",
+        "title": "A Hard Day's Night",
+        "year": "1964"
+    },
+    {
+        "artist": "The Rolling Stones",
+        "title": "The Rolling Stones",
+        "year": "1964"
+    },
+    {
+        "artist": "BB King",
+        "title": "Live At The Regal",
+        "year": "1965"
+    },
+    {
+        "artist": "Bob Dylan",
+        "title": "Bringing It All Back Home",
+        "year": "1965"
+    },
+    {
+        "artist": "Bob Dylan",
+        "title": "Highway 61 Revisited",
+        "year": "1965"
+    },
+    {
+        "artist": "Buck Owens & His Buckeroos",
+        "title": "I've Got A Tiger By The Tail",
+        "year": "1965"
+    },
+    {
+        "artist": "Jerry Lee Lewis",
+        "title": "Live At The Star Club Hamburg",
+        "year": "1965"
+    },
+    {
+        "artist": "Otis Redding",
+        "title": "Otis Blue: Otis Redding Sings Soul",
+        "year": "1965"
+    },
+    {
+        "artist": "The Beach Boys",
+        "title": "The Beach Boys Today!",
+        "year": "1965"
+    },
+    {
+        "artist": "The Beatles",
+        "title": "Rubber Soul",
+        "year": "1965"
+    },
+    {
+        "artist": "The Byrds",
+        "title": "Mr Tambourine Man",
+        "year": "1965"
+    },
+    {
+        "artist": "The Sonics",
+        "title": "Here Are The Sonics",
+        "year": "1965"
+    },
+    {
+        "artist": "The Who",
+        "title": "My Generation",
+        "year": "1965"
+    },
+    {
+        "artist": "13th Floor Elevators",
+        "title": "The Psychedelic Sounds Of The 13th Floor Elevators",
+        "year": "1966"
+    },
+    {
+        "artist": "Bob Dylan",
+        "title": "Blonde On Blonde",
+        "year": "1966"
+    },
+    {
+        "artist": "Donovan",
+        "title": "Sunshine Superman",
+        "year": "1966"
+    },
+    {
+        "artist": "Fred Neil",
+        "title": "Fred Neil",
+        "year": "1966"
+    },
+    {
+        "artist": "John Mayall's Blues Breakers",
+        "title": "Blues Breakers With Eric Clapton",
+        "year": "1966"
+    },
+    {
+        "artist": "Nina Simone",
+        "title": "Wild Is The Wind",
+        "year": "1966"
+    },
+    {
+        "artist": "Paul Revere & The Raiders",
+        "title": "Midnight Ride",
+        "year": "1966"
+    },
+    {
+        "artist": "Simon & Garfunkel",
+        "title": "Parsley, Sage, Rosemary And Thyme",
+        "year": "1966"
+    },
+    {
+        "artist": "The Beach Boys",
+        "title": "Pet Sounds",
+        "year": "1966"
+    },
+    {
+        "artist": "The Beatles",
+        "title": "Revolver",
+        "year": "1966"
+    },
+    {
+        "artist": "The Byrds",
+        "title": "Fifth Dimension",
+        "year": "1966"
+    },
+    {
+        "artist": "The Kinks",
+        "title": "Face To Face",
+        "year": "1966"
+    },
+    {
+        "artist": "The Mamas & The Papas",
+        "title": "If You Can Believe Your Eyes And Ears",
+        "year": "1966"
+    },
+    {
+        "artist": "The Mamas & The Papas",
+        "title": "The Mamas And The Papas",
+        "year": "1966"
+    },
+    {
+        "artist": "The Monks",
+        "title": "Black Monk Time",
+        "year": "1966"
+    },
+    {
+        "artist": "The Mothers Of Invention",
+        "title": "Freak Out!",
+        "year": "1966"
+    },
+    {
+        "artist": "The Rolling Stones",
+        "title": "Aftermath",
+        "year": "1966"
+    },
+    {
+        "artist": "The Yardbirds",
+        "title": "The Yardbirds",
+        "year": "1966"
+    },
+    {
+        "artist": "Aretha Franklin",
+        "title": "I Never Loved A Man The Way I Love You",
+        "year": "1967"
+    },
+    {
+        "artist": "Buffalo Springfield",
+        "title": "Buffalo Springfield Again",
+        "year": "1967"
+    },
+    {
+        "artist": "Captain Beefheart & His Magic Band",
+        "title": "Safe As Milk",
+        "year": "1967"
+    },
+    {
+        "artist": "Country Joe & The Fish",
+        "title": "Electric Music For The Mind And Body",
+        "year": "1967"
+    },
+    {
+        "artist": "Cream",
+        "title": "Disraeli Gears",
+        "year": "1967"
+    },
+    {
+        "artist": "Frank Sinatra",
+        "title": "Frank Albert Sinatra And Antonio Carlos Jobim",
+        "year": "1967"
+    },
+    {
+        "artist": "Jefferson Airplane",
+        "title": "Surrealistic Pillow",
+        "year": "1967"
+    },
+    {
+        "artist": "Jimi Hendrix",
+        "title": "Are You Experienced?",
+        "year": "1967"
+    },
+    {
+        "artist": "Jimi Hendrix",
+        "title": "Axis: Bold As Love",
+        "year": "1967"
+    },
+    {
+        "artist": "Loretta Lynn",
+        "title": "Don't Come Home A Drinkin' (With Lovin' On Your Mind)",
+        "year": "1967"
+    },
+    {
+        "artist": "Love",
+        "title": "Da Capo",
+        "year": "1967"
+    },
+    {
+        "artist": "Love",
+        "title": "Forever Changes",
+        "year": "1967"
+    },
+    {
+        "artist": "Merle Haggard",
+        "title": "I'm A Lonesome Fugitive",
+        "year": "1967"
+    },
+    {
+        "artist": "Moby Grape",
+        "title": "Moby Grape",
+        "year": "1967"
+    },
+    {
+        "artist": "Nico",
+        "title": "Chelsea Girl",
+        "year": "1967"
+    },
+    {
+        "artist": "Pink Floyd",
+        "title": "The Piper At The Gates Of Dawn",
+        "year": "1967"
+    },
+    {
+        "artist": "The Beatles",
+        "title": "Sgt Pepper's Lonely Hearts Club Band",
+        "year": "1967"
+    },
+    {
+        "artist": "The Beau Brummels",
+        "title": "Triangle",
+        "year": "1967"
+    },
+    {
+        "artist": "The Byrds",
+        "title": "Younger Than Yesterday",
+        "year": "1967"
+    },
+    {
+        "artist": "The Doors",
+        "title": "The Doors",
+        "year": "1967"
+    },
+    {
+        "artist": "The Electric Prunes",
+        "title": "I Had Too Much To Dream (Last Night)",
+        "year": "1967"
+    },
+    {
+        "artist": "The Kinks",
+        "title": "Something Else By The Kinks",
+        "year": "1967"
+    },
+    {
+        "artist": "The Monkees",
+        "title": "Headquarters",
+        "year": "1967"
+    },
+    {
+        "artist": "The Mothers Of Invention",
+        "title": "We're Only In It For The Money",
+        "year": "1967"
+    },
+    {
+        "artist": "The Velvet Underground",
+        "title": "The Velvet Underground And Nico",
+        "year": "1967"
+    },
+    {
+        "artist": "The Velvet Underground",
+        "title": "White Light/White Heat",
+        "year": "1967"
+    },
+    {
+        "artist": "The Who",
+        "title": "The Who Sell Out",
+        "year": "1967"
+    },
+    {
+        "artist": "The Young Rascals",
+        "title": "Groovin'",
+        "year": "1967"
+    },
+    {
+        "artist": "Alexander Spence",
+        "title": "Oar",
+        "year": "1968"
+    },
+    {
+        "artist": "Aretha Franklin",
+        "title": "Aretha: Lady Soul",
+        "year": "1968"
+    },
+    {
+        "artist": "Astrud Gilberto",
+        "title": "Beach Samba",
+        "year": "1968"
+    },
+    {
+        "artist": "Big Brother & The Holding Company",
+        "title": "Cheap Thrills",
+        "year": "1968"
+    },
+    {
+        "artist": "Blue Cheer",
+        "title": "Vincebus Eruptum",
+        "year": "1968"
+    },
+    {
+        "artist": "Caetano Veloso",
+        "title": "Caetano Veloso",
+        "year": "1968"
+    },
+    {
+        "artist": "Iron Butterfly",
+        "title": "In-A-Gadda-Da-Vida",
+        "year": "1968"
+    },
+    {
+        "artist": "Jeff Beck",
+        "title": "Truth",
+        "year": "1968"
+    },
+    {
+        "artist": "Jimi Hendrix",
+        "title": "Electric Ladyland",
+        "year": "1968"
+    },
+    {
+        "artist": "Johnny Cash",
+        "title": "At Folsom Prison",
+        "year": "1968"
+    },
+    {
+        "artist": "Laura Nyro",
+        "title": "Eli And The Thirteenth Confession",
+        "year": "1968"
+    },
+    {
+        "artist": "Leonard Cohen",
+        "title": "The Songs Of Leonard Cohen",
+        "year": "1968"
+    },
+    {
+        "artist": "Os Mutantes",
+        "title": "Os Mutantes",
+        "year": "1968"
+    },
+    {
+        "artist": "Ravi Shankar",
+        "title": "The Sounds Of India",
+        "year": "1968"
+    },
+    {
+        "artist": "Scott Walker",
+        "title": "Scott 2",
+        "year": "1968"
+    },
+    {
+        "artist": "Shivkumar Sharma",
+        "title": "Call Of The Valley",
+        "year": "1968"
+    },
+    {
+        "artist": "Simon & Garfunkel",
+        "title": "Bookends",
+        "year": "1968"
+    },
+    {
+        "artist": "The Band",
+        "title": "Music From Big Pink",
+        "year": "1968"
+    },
+    {
+        "artist": "The Beatles",
+        "title": "White Album",
+        "year": "1968"
+    },
+    {
+        "artist": "The Byrds",
+        "title": "Sweetheart Of The Rodeo",
+        "year": "1968"
+    },
+    {
+        "artist": "The Byrds",
+        "title": "The Notorious Byrd Brothers",
+        "year": "1968"
+    },
+    {
+        "artist": "The Incredible String Band",
+        "title": "The Hangman's Beautiful Daughter",
+        "year": "1968"
+    },
+    {
+        "artist": "The Kinks",
+        "title": "The Kinks Are The Village Green Preservation Society",
+        "year": "1968"
+    },
+    {
+        "artist": "The Pretty Things",
+        "title": "S F Sorrow",
+        "year": "1968"
+    },
+    {
+        "artist": "The Rolling Stones",
+        "title": "Beggars Banquet",
+        "year": "1968"
+    },
+    {
+        "artist": "The Small Faces",
+        "title": "Ogden's Nut Gone Flake",
+        "year": "1968"
+    },
+    {
+        "artist": "The United States Of America",
+        "title": "The United States Of America",
+        "year": "1968"
+    },
+    {
+        "artist": "The Who",
+        "title": "Tommy",
+        "year": "1968"
+    },
+    {
+        "artist": "The Zombies",
+        "title": "Odessey And Oracle",
+        "year": "1968"
+    },
+    {
+        "artist": "Tim Buckley",
+        "title": "Happy Sad",
+        "year": "1968"
+    },
+    {
+        "artist": "Tim Buckley",
+        "title": "Goodbye And Hello",
+        "year": "1968"
+    },
+    {
+        "artist": "Traffic",
+        "title": "Traffic",
+        "year": "1968"
+    },
+    {
+        "artist": "Blood, Sweat & Tears",
+        "title": "Blood, Sweat And Tears",
+        "year": "1969"
+    },
+    {
+        "artist": "Captain Beefheart & His Magic Band",
+        "title": "Trout Mask Replica",
+        "year": "1969"
+    },
+    {
+        "artist": "Chicago Transit Authority",
+        "title": "Chicago Transit Authority",
+        "year": "1969"
+    },
+    {
+        "artist": "Creedence Clearwater Revival",
+        "title": "Bayou Country",
+        "year": "1969"
+    },
+    {
+        "artist": "Creedence Clearwater Revival",
+        "title": "Green River",
+        "year": "1969"
+    },
+    {
+        "artist": "Crosby, Stills & Nash",
+        "title": "Crosby, Stills And Nash",
+        "year": "1969"
+    },
+    {
+        "artist": "Dr John, The Night Tripper",
+        "title": "Gris Gris",
+        "year": "1969"
+    },
+    {
+        "artist": "Dusty Springfield",
+        "title": "Dusty In Memphis",
+        "year": "1969"
+    },
+    {
+        "artist": "Elvis Presley",
+        "title": "From Elvis in Memphis",
+        "year": "1969"
+    },
+    {
+        "artist": "Fairport Convention",
+        "title": "Liege And Lief",
+        "year": "1969"
+    },
+    {
+        "artist": "Fairport Convention",
+        "title": "Unhalfbricking",
+        "year": "1969"
+    },
+    {
+        "artist": "Flying Burrito Brothers",
+        "title": "The Gilded Palace Of Sin",
+        "year": "1969"
+    },
+    {
+        "artist": "Frank Zappa",
+        "title": "Hot Rats",
+        "year": "1969"
+    },
+    {
+        "artist": "Isaac Hayes",
+        "title": "Hot Buttered Soul",
+        "year": "1969"
+    },
+    {
+        "artist": "Johnny Cash",
+        "title": "Johnny Cash At San Quentin",
+        "year": "1969"
+    },
+    {
+        "artist": "King Crimson",
+        "title": "In The Court Of The Crimson King",
+        "year": "1969"
+    },
+    {
+        "artist": "Led Zeppelin",
+        "title": "Led Zeppelin",
+        "year": "1969"
+    },
+    {
+        "artist": "Led Zeppelin",
+        "title": "Led Zeppelin II",
+        "year": "1969"
+    },
+    {
+        "artist": "Leonard Cohen",
+        "title": "Songs From A Room",
+        "year": "1969"
+    },
+    {
+        "artist": "MC5",
+        "title": "Kick Out The Jams",
+        "year": "1969"
+    },
+    {
+        "artist": "Miles Davis",
+        "title": "In A Silent Way",
+        "year": "1969"
+    },
+    {
+        "artist": "Neil Young With Crazy Horse",
+        "title": "Everybody Knows This Is Nowhere",
+        "year": "1969"
+    },
+    {
+        "artist": "Nick Drake",
+        "title": "Five Leaves Left",
+        "year": "1969"
+    },
+    {
+        "artist": "Pentangle",
+        "title": "Basket Of Light",
+        "year": "1969"
+    },
+    {
+        "artist": "Quicksilver Messenger Service",
+        "title": "Happy Trails",
+        "year": "1969"
+    },
+    {
+        "artist": "Scott Walker",
+        "title": "Scott 4",
+        "year": "1969"
+    },
+    {
+        "artist": "Sly & The Family Stone",
+        "title": "Stand!",
+        "year": "1969"
+    },
+    {
+        "artist": "The Band",
+        "title": "The Band",
+        "year": "1969"
+    },
+    {
+        "artist": "The Beatles",
+        "title": "Abbey Road",
+        "year": "1969"
+    },
+    {
+        "artist": "The Bee Gees",
+        "title": "Odessa",
+        "year": "1969"
+    },
+    {
+        "artist": "The Kinks",
+        "title": "Arthur: Or The Decline And Fall Of The British Empire",
+        "year": "1969"
+    },
+    {
+        "artist": "The Rolling Stones",
+        "title": "Let It Bleed",
+        "year": "1969"
+    },
+    {
+        "artist": "The Stooges",
+        "title": "The Stooges",
+        "year": "1969"
+    },
+    {
+        "artist": "The Temptations",
+        "title": "Cloud Nine",
+        "year": "1969"
+    },
+    {
+        "artist": "The Velvet Underground",
+        "title": "The Velvet Underground",
+        "year": "1969"
+    },
+    {
+        "artist": "The Youngbloods",
+        "title": "Elephant Mountain",
+        "year": "1969"
+    },
+    {
+        "artist": "Van Morrison",
+        "title": "Astral Weeks",
+        "year": "1969"
+    },
+    {
+        "artist": "Ananda Shankar",
+        "title": "Ananda Shankar",
+        "year": "1970"
+    },
+    {
+        "artist": "Black Sabbath",
+        "title": "Black Sabbath",
+        "year": "1970"
+    },
+    {
+        "artist": "Black Sabbath",
+        "title": "Paranoid",
+        "year": "1970"
+    },
+    {
+        "artist": "Cat Stevens",
+        "title": "Tea For The Tillerman",
+        "year": "1970"
+    },
+    {
+        "artist": "Crosby, Stills, Nash & Young",
+        "title": "D\u00e9j\u00e0 Vu",
+        "year": "1970"
+    },
+    {
+        "artist": "Deep Purple",
+        "title": "In Rock",
+        "year": "1970"
+    },
+    {
+        "artist": "Derek & The Dominos",
+        "title": "Layla And Other Assorted Love Songs",
+        "year": "1970"
+    },
+    {
+        "artist": "George Harrison",
+        "title": "All Things Must Pass",
+        "year": "1970"
+    },
+    {
+        "artist": "James Taylor",
+        "title": "Sweet Baby James",
+        "year": "1970"
+    },
+    {
+        "artist": "John Lennon",
+        "title": "Plastic Ono Band",
+        "year": "1970"
+    },
+    {
+        "artist": "Led Zeppelin",
+        "title": "Led Zeppelin III",
+        "year": "1970"
+    },
+    {
+        "artist": "Paul McCartney",
+        "title": "McCartney",
+        "year": "1970"
+    },
+    {
+        "artist": "Miles Davis",
+        "title": "Bitches Brew",
+        "year": "1970"
+    },
+    {
+        "artist": "Neil Young",
+        "title": "After The Gold Rush",
+        "year": "1970"
+    },
+    {
+        "artist": "Nick Drake",
+        "title": "Bryter Layter",
+        "year": "1970"
+    },
+    {
+        "artist": "Rod Stewart",
+        "title": "Gasoline Alley",
+        "year": "1970"
+    },
+    {
+        "artist": "Santana",
+        "title": "Abraxas",
+        "year": "1970"
+    },
+    {
+        "artist": "Simon & Garfunkel",
+        "title": "Bridge Over Troubled Water",
+        "year": "1970"
+    },
+    {
+        "artist": "Soft Machine",
+        "title": "Third",
+        "year": "1970"
+    },
+    {
+        "artist": "Spirit",
+        "title": "Twelve Dreams Of Dr Sardonicus",
+        "year": "1970"
+    },
+    {
+        "artist": "Stephen Stills",
+        "title": "Stephen Stills",
+        "year": "1970"
+    },
+    {
+        "artist": "Syd Barrett",
+        "title": "The Madcap Laughs",
+        "year": "1970"
+    },
+    {
+        "artist": "The Carpenters",
+        "title": "Close To You",
+        "year": "1970"
+    },
+    {
+        "artist": "The Doors",
+        "title": "Morrison Hotel",
+        "year": "1970"
+    },
+    {
+        "artist": "The Grateful Dead",
+        "title": "American Beauty",
+        "year": "1970"
+    },
+    {
+        "artist": "The Grateful Dead",
+        "title": "Live/Dead",
+        "year": "1970"
+    },
+    {
+        "artist": "The Stooges",
+        "title": "Fun House",
+        "year": "1970"
+    },
+    {
+        "artist": "The Who",
+        "title": "Live At Leeds",
+        "year": "1970"
+    },
+    {
+        "artist": "Traffic",
+        "title": "John Barleycorn Must Die",
+        "year": "1970"
+    },
+    {
+        "artist": "Van Morrison",
+        "title": "Moondance",
+        "year": "1970"
+    },
+    {
+        "artist": "Can",
+        "title": "Tago Mago",
+        "year": "1971"
+    },
+    {
+        "artist": "Carole King",
+        "title": "Tapestry",
+        "year": "1971"
+    },
+    {
+        "artist": "Creedence Clearwater Revival",
+        "title": "Cosmo's Factory",
+        "year": "1971"
+    },
+    {
+        "artist": "David Crosby",
+        "title": "If Only I Could Remember My Name",
+        "year": "1971"
+    },
+    {
+        "artist": "Dolly Parton",
+        "title": "Coat Of Many Colours",
+        "year": "1971"
+    },
+    {
+        "artist": "Don McLean",
+        "title": "American Pie",
+        "year": "1971"
+    },
+    {
+        "artist": "Elton John",
+        "title": "Madman Across The Water",
+        "year": "1971"
+    },
+    {
+        "artist": "Emerson, Lake & Palmer",
+        "title": "Pictures At An Exhibition",
+        "year": "1971"
+    },
+    {
+        "artist": "Emerson, Lake & Palmer",
+        "title": "Tarkus",
+        "year": "1971"
+    },
+    {
+        "artist": "Faces",
+        "title": "A Nod Is As Good As A Wink To A Blind Horse",
+        "year": "1971"
+    },
+    {
+        "artist": "Fela Kuti & The Afrika 70",
+        "title": "With Ginger Baker Live!",
+        "year": "1971"
+    },
+    {
+        "artist": "Flamin' Groovies",
+        "title": "Teenage Head",
+        "year": "1971"
+    },
+    {
+        "artist": "Funkadelic",
+        "title": "Maggot Brain",
+        "year": "1971"
+    },
+    {
+        "artist": "Harry Nilsson",
+        "title": "Nilsson Schmilsson",
+        "year": "1971"
+    },
+    {
+        "artist": "Isaac Hayes",
+        "title": "Shaft",
+        "year": "1971"
+    },
+    {
+        "artist": "Janis Joplin",
+        "title": "Pearl",
+        "year": "1971"
+    },
+    {
+        "artist": "Jethro Tull",
+        "title": "Aqualung",
+        "year": "1971"
+    },
+    {
+        "artist": "John Lennon",
+        "title": "Imagine",
+        "year": "1971"
+    },
+    {
+        "artist": "Joni Mitchell",
+        "title": "Blue",
+        "year": "1971"
+    },
+    {
+        "artist": "Led Zeppelin",
+        "title": "Led Zeppelin IV",
+        "year": "1971"
+    },
+    {
+        "artist": "Leonard Cohen",
+        "title": "Songs Of Love And Hate",
+        "year": "1971"
+    },
+    {
+        "artist": "Marvin Gaye",
+        "title": "What's Going On",
+        "year": "1971"
+    },
+    {
+        "artist": "Rod Stewart",
+        "title": "Every Picture Tells A Story",
+        "year": "1971"
+    },
+    {
+        "artist": "Serge Gainsbourg",
+        "title": "Histoire De Melody Nelson",
+        "year": "1971"
+    },
+    {
+        "artist": "Sly & The Family Stone",
+        "title": "There's A Riot Goin' On",
+        "year": "1971"
+    },
+    {
+        "artist": "T Rex",
+        "title": "Electric Warrior",
+        "year": "1971"
+    },
+    {
+        "artist": "The Allman Brothers Band",
+        "title": "At Fillmore East",
+        "year": "1971"
+    },
+    {
+        "artist": "The Beach Boys",
+        "title": "Surf's Up",
+        "year": "1971"
+    },
+    {
+        "artist": "The Bee Gees",
+        "title": "Trafalgar",
+        "year": "1971"
+    },
+    {
+        "artist": "The Doors",
+        "title": "L A Woman",
+        "year": "1971"
+    },
+    {
+        "artist": "The Rolling Stones",
+        "title": "Sticky Fingers",
+        "year": "1971"
+    },
+    {
+        "artist": "The Who",
+        "title": "Who's Next",
+        "year": "1971"
+    },
+    {
+        "artist": "Yes",
+        "title": "Fragile",
+        "year": "1971"
+    },
+    {
+        "artist": "Yes",
+        "title": "The Yes Album",
+        "year": "1971"
+    },
+    {
+        "artist": "Al Green",
+        "title": "Let's Stay Together",
+        "year": "1972"
+    },
+    {
+        "artist": "Alice Cooper",
+        "title": "School's Out",
+        "year": "1972"
+    },
+    {
+        "artist": "Big Star",
+        "title": "No 1 Record",
+        "year": "1972"
+    },
+    {
+        "artist": "Black Sabbath",
+        "title": "Black Sabbath Vol 4",
+        "year": "1972"
+    },
+    {
+        "artist": "Burning Spear",
+        "title": "Marcus Garvey",
+        "year": "1972"
+    },
+    {
+        "artist": "Curtis Mayfield",
+        "title": "Superfly",
+        "year": "1972"
+    },
+    {
+        "artist": "David Ackles",
+        "title": "American Gothic",
+        "year": "1972"
+    },
+    {
+        "artist": "David Bowie",
+        "title": "Hunky Dory",
+        "year": "1972"
+    },
+    {
+        "artist": "David Bowie",
+        "title": "The Rise & Fall Of Ziggy Stardust And The Spiders From Mars",
+        "year": "1972"
+    },
+    {
+        "artist": "Deep Purple",
+        "title": "Machine Head",
+        "year": "1972"
+    },
+    {
+        "artist": "Gene Clark",
+        "title": "White Light",
+        "year": "1972"
+    },
+    {
+        "artist": "Hugh Masekela",
+        "title": "Home Is Where The Music Is",
+        "year": "1972"
+    },
+    {
+        "artist": "John Prine",
+        "title": "John Prine",
+        "year": "1972"
+    },
+    {
+        "artist": "Lou Reed",
+        "title": "Transformer",
+        "year": "1972"
+    },
+    {
+        "artist": "Milton Nascimento & Lo Borges",
+        "title": "Clube Da Esquina",
+        "year": "1972"
+    },
+    {
+        "artist": "Neil Young",
+        "title": "Harvest",
+        "year": "1972"
+    },
+    {
+        "artist": "Nick Drake",
+        "title": "Pink Moon",
+        "year": "1972"
+    },
+    {
+        "artist": "Nitty Gritty Dirt Band",
+        "title": "Will The Circle Be Unbroken",
+        "year": "1972"
+    },
+    {
+        "artist": "Paul Simon",
+        "title": "Paul Simon",
+        "year": "1972"
+    },
+    {
+        "artist": "Randy Newman",
+        "title": "Sail Away",
+        "year": "1972"
+    },
+    {
+        "artist": "Roxy Music",
+        "title": "Roxy Music",
+        "year": "1972"
+    },
+    {
+        "artist": "Slade",
+        "title": "Slayed?",
+        "year": "1972"
+    },
+    {
+        "artist": "Steely Dan",
+        "title": "Can't Buy A Thrill",
+        "year": "1972"
+    },
+    {
+        "artist": "Stevie Wonder",
+        "title": "Talking Book",
+        "year": "1972"
+    },
+    {
+        "artist": "T Rex",
+        "title": "The Slider",
+        "year": "1972"
+    },
+    {
+        "artist": "The Eagles",
+        "title": "Eagles",
+        "year": "1972"
+    },
+    {
+        "artist": "The Rolling Stones",
+        "title": "Exile On Main Street",
+        "year": "1972"
+    },
+    {
+        "artist": "The Temptations",
+        "title": "All Directions",
+        "year": "1972"
+    },
+    {
+        "artist": "Todd Rundgren",
+        "title": "Something/Anything?",
+        "year": "1972"
+    },
+    {
+        "artist": "War",
+        "title": "The World Is A Ghetto",
+        "year": "1972"
+    },
+    {
+        "artist": "Yes",
+        "title": "Close To The Edge",
+        "year": "1972"
+    },
+    {
+        "artist": "Alice Cooper",
+        "title": "Billion Dollar Babies",
+        "year": "1973"
+    },
+    {
+        "artist": "Bob Marley & The Wailers",
+        "title": "Catch A Fire",
+        "year": "1973"
+    },
+    {
+        "artist": "Can",
+        "title": "Future Days",
+        "year": "1973"
+    },
+    {
+        "artist": "David Bowie",
+        "title": "Aladdin Sane",
+        "year": "1973"
+    },
+    {
+        "artist": "Deep Purple",
+        "title": "Made In Japan",
+        "year": "1973"
+    },
+    {
+        "artist": "Elton John",
+        "title": "Goodbye Yellow Brick Road",
+        "year": "1973"
+    },
+    {
+        "artist": "Faust",
+        "title": "Faust IV",
+        "year": "1973"
+    },
+    {
+        "artist": "Genesis",
+        "title": "Selling England By The Pound",
+        "year": "1973"
+    },
+    {
+        "artist": "Gram Parsons",
+        "title": "Grievous Angel",
+        "year": "1973"
+    },
+    {
+        "artist": "Hawkwind",
+        "title": "Space Ritual",
+        "year": "1973"
+    },
+    {
+        "artist": "Iggy & The Stooges",
+        "title": "Raw Power",
+        "year": "1973"
+    },
+    {
+        "artist": "John Cale",
+        "title": "Paris 1919",
+        "year": "1973"
+    },
+    {
+        "artist": "John Martyn",
+        "title": "Solid Air",
+        "year": "1973"
+    },
+    {
+        "artist": "King Crimson",
+        "title": "Lark's Tongues In Aspic",
+        "year": "1973"
+    },
+    {
+        "artist": "Lou Reed",
+        "title": "Berlin",
+        "year": "1973"
+    },
+    {
+        "artist": "Lynyrd Skynyrd",
+        "title": "Pronounced Leh-Nerd Skin-Nerd",
+        "year": "1973"
+    },
+    {
+        "artist": "Marvin Gaye",
+        "title": "Let's Get It On",
+        "year": "1973"
+    },
+    {
+        "artist": "Mike Oldfield",
+        "title": "Tubular Bells",
+        "year": "1973"
+    },
+    {
+        "artist": "Mott The Hoople",
+        "title": "Mott",
+        "year": "1973"
+    },
+    {
+        "artist": "New York Dolls",
+        "title": "New York Dolls",
+        "year": "1973"
+    },
+    {
+        "artist": "Paul McCartney & Wings",
+        "title": "Band On The Run",
+        "year": "1973"
+    },
+    {
+        "artist": "Pink Floyd",
+        "title": "The Dark Side Of The Moon",
+        "year": "1973"
+    },
+    {
+        "artist": "Roxy Music",
+        "title": "For Your Pleasure",
+        "year": "1973"
+    },
+    {
+        "artist": "Steely Dan",
+        "title": "Countdown To Ecstasy",
+        "year": "1973"
+    },
+    {
+        "artist": "Stephen Stills",
+        "title": "Manassas",
+        "year": "1973"
+    },
+    {
+        "artist": "Stevie Wonder",
+        "title": "Innervisions",
+        "year": "1973"
+    },
+    {
+        "artist": "The Incredible Bongo Band",
+        "title": "Bongo Rock",
+        "year": "1973"
+    },
+    {
+        "artist": "The Isley Brothers",
+        "title": "3 3",
+        "year": "1973"
+    },
+    {
+        "artist": "The Sensational Alex Harvey Band",
+        "title": "Next",
+        "year": "1973"
+    },
+    {
+        "artist": "Todd Rundgren",
+        "title": "A Wizard, A True Star",
+        "year": "1973"
+    },
+    {
+        "artist": "Waylon Jennings",
+        "title": "Honky Tonk Heroes",
+        "year": "1973"
+    },
+    {
+        "artist": "ZZ Top",
+        "title": "Tres Hombres",
+        "year": "1973"
+    },
+    {
+        "artist": "10CC",
+        "title": "Sheet Music",
+        "year": "1974"
+    },
+    {
+        "artist": "Bad Company",
+        "title": "Bad Company",
+        "year": "1974"
+    },
+    {
+        "artist": "Bob Dylan",
+        "title": "Blood On The Tracks",
+        "year": "1974"
+    },
+    {
+        "artist": "Brian Eno",
+        "title": "Here Come The Warm Jets",
+        "year": "1974"
+    },
+    {
+        "artist": "Dennis Wilson",
+        "title": "Pacific Ocean Blue",
+        "year": "1974"
+    },
+    {
+        "artist": "Eric Clapton",
+        "title": "461 Ocean Blvd",
+        "year": "1974"
+    },
+    {
+        "artist": "Gene Clark",
+        "title": "No Other",
+        "year": "1974"
+    },
+    {
+        "artist": "Genesis",
+        "title": "Lamb Lies Down On Broadway",
+        "year": "1974"
+    },
+    {
+        "artist": "George Jones",
+        "title": "The Grand Tour",
+        "year": "1974"
+    },
+    {
+        "artist": "Gil Scott-Heron & Brian Jackson",
+        "title": "Winter In America",
+        "year": "1974"
+    },
+    {
+        "artist": "Herbie Hancock",
+        "title": "Head Hunters",
+        "year": "1974"
+    },
+    {
+        "artist": "Joni Mitchell",
+        "title": "Court And Spark",
+        "year": "1974"
+    },
+    {
+        "artist": "Kraftwerk",
+        "title": "Autobahn",
+        "year": "1974"
+    },
+    {
+        "artist": "Neil Young",
+        "title": "On The Beach",
+        "year": "1974"
+    },
+    {
+        "artist": "Queen",
+        "title": "Queen II",
+        "year": "1974"
+    },
+    {
+        "artist": "Queen",
+        "title": "Sheer Heart Attack",
+        "year": "1974"
+    },
+    {
+        "artist": "Randy Newman",
+        "title": "Good Old Boys",
+        "year": "1974"
+    },
+    {
+        "artist": "Richard & Linda Thompson",
+        "title": "I Want To See The Bright Lights Tonight",
+        "year": "1974"
+    },
+    {
+        "artist": "Robert Wyatt",
+        "title": "Rock Bottom",
+        "year": "1974"
+    },
+    {
+        "artist": "Roxy Music",
+        "title": "Country Life",
+        "year": "1974"
+    },
+    {
+        "artist": "Sparks",
+        "title": "Kimono My House",
+        "year": "1974"
+    },
+    {
+        "artist": "Steely Dan",
+        "title": "Pretzel Logic",
+        "year": "1974"
+    },
+    {
+        "artist": "Stevie Wonder",
+        "title": "Fulfillingness' First Finale",
+        "year": "1974"
+    },
+    {
+        "artist": "Supertramp",
+        "title": "Crime Of The Century",
+        "year": "1974"
+    },
+    {
+        "artist": "Tangerine Dream",
+        "title": "Phaedra",
+        "year": "1974"
+    },
+    {
+        "artist": "Van Morrison",
+        "title": "It's Too Late To Stop Now",
+        "year": "1974"
+    },
+    {
+        "artist": "Aerosmith",
+        "title": "Toys In The Attic",
+        "year": "1975"
+    },
+    {
+        "artist": "Bob Marley & The Wailers",
+        "title": "Natty Dread",
+        "year": "1975"
+    },
+    {
+        "artist": "Brian Eno",
+        "title": "Another Green World",
+        "year": "1975"
+    },
+    {
+        "artist": "Bruce Springsteen",
+        "title": "Born To Run",
+        "year": "1975"
+    },
+    {
+        "artist": "Curtis Mayfield",
+        "title": "There's No Place Like America Today",
+        "year": "1975"
+    },
+    {
+        "artist": "David Bowie",
+        "title": "Young Americans",
+        "year": "1975"
+    },
+    {
+        "artist": "Dion",
+        "title": "Born To Be With You",
+        "year": "1975"
+    },
+    {
+        "artist": "Earth, Wind & Fire",
+        "title": "That's The Way Of The World",
+        "year": "1975"
+    },
+    {
+        "artist": "Emmylou Harris",
+        "title": "Pieces Of The Sky",
+        "year": "1975"
+    },
+    {
+        "artist": "Joni Mitchell",
+        "title": "The Hissing Of Summer Lawns",
+        "year": "1975"
+    },
+    {
+        "artist": "Keith Jarrett",
+        "title": "The Koln Concert",
+        "year": "1975"
+    },
+    {
+        "artist": "Led Zeppelin",
+        "title": "Physical Graffiti",
+        "year": "1975"
+    },
+    {
+        "artist": "Neil Young",
+        "title": "Tonight's The Night",
+        "year": "1975"
+    },
+    {
+        "artist": "Neu!",
+        "title": "Neu! 75",
+        "year": "1975"
+    },
+    {
+        "artist": "Patti Smith",
+        "title": "Horses",
+        "year": "1975"
+    },
+    {
+        "artist": "Peter Frampton",
+        "title": "Frampton Comes Alive",
+        "year": "1975"
+    },
+    {
+        "artist": "Pink Floyd",
+        "title": "Wish You Were Here",
+        "year": "1975"
+    },
+    {
+        "artist": "Queen",
+        "title": "A Night At The Opera",
+        "year": "1975"
+    },
+    {
+        "artist": "Rahul Dev Burman",
+        "title": "Shalimar/College Girl (Soundtrack)",
+        "year": "1975"
+    },
+    {
+        "artist": "Shuggie Otis",
+        "title": "Inspiration Information",
+        "year": "1975"
+    },
+    {
+        "artist": "The Dictators",
+        "title": "Go Girl Crazy!",
+        "year": "1975"
+    },
+    {
+        "artist": "Tim Buckley",
+        "title": "Greetings From L A",
+        "year": "1975"
+    },
+    {
+        "artist": "Tom Waits",
+        "title": "Nighthawks At The Diner",
+        "year": "1975"
+    },
+    {
+        "artist": "Willie Nelson",
+        "title": "Red Headed Stranger",
+        "year": "1975"
+    },
+    {
+        "artist": "ABBA",
+        "title": "Arrival",
+        "year": "1976"
+    },
+    {
+        "artist": "Aerosmith",
+        "title": "Rocks",
+        "year": "1976"
+    },
+    {
+        "artist": "Boston",
+        "title": "Boston",
+        "year": "1976"
+    },
+    {
+        "artist": "David Bowie",
+        "title": "Station To Station",
+        "year": "1976"
+    },
+    {
+        "artist": "Joan Armatrading",
+        "title": "Joan Armatrading",
+        "year": "1976"
+    },
+    {
+        "artist": "Joni Mitchell",
+        "title": "Hejira",
+        "year": "1976"
+    },
+    {
+        "artist": "Jorge Ben",
+        "title": "Africa Brasil",
+        "year": "1976"
+    },
+    {
+        "artist": "Kiss",
+        "title": "Destroyer",
+        "year": "1976"
+    },
+    {
+        "artist": "Parliament",
+        "title": "Mothership Connection",
+        "year": "1976"
+    },
+    {
+        "artist": "Peter Tosh",
+        "title": "Legalize It",
+        "year": "1976"
+    },
+    {
+        "artist": "Ramones",
+        "title": "Ramones",
+        "year": "1976"
+    },
+    {
+        "artist": "Rush",
+        "title": "2112",
+        "year": "1976"
+    },
+    {
+        "artist": "Stevie Wonder",
+        "title": "Songs In The Key Of Life",
+        "year": "1976"
+    },
+    {
+        "artist": "The Eagles",
+        "title": "Hotel California",
+        "year": "1976"
+    },
+    {
+        "artist": "Billy Joel",
+        "title": "The Stranger",
+        "year": "1977"
+    },
+    {
+        "artist": "Bob Marley & The Wailers",
+        "title": "Exodus",
+        "year": "1977"
+    },
+    {
+        "artist": "Brian Eno",
+        "title": "Before And After Science",
+        "year": "1977"
+    },
+    {
+        "artist": "Chic",
+        "title": "C'est Chic",
+        "year": "1977"
+    },
+    {
+        "artist": "David Bowie",
+        "title": "Heroes",
+        "year": "1977"
+    },
+    {
+        "artist": "David Bowie",
+        "title": "Low",
+        "year": "1977"
+    },
+    {
+        "artist": "Electric Light Orchestra",
+        "title": "Out Of The Blue",
+        "year": "1977"
+    },
+    {
+        "artist": "Elvis Costello",
+        "title": "My Aim Is True",
+        "year": "1977"
+    },
+    {
+        "artist": "Fela Kuti & The Afrika 70",
+        "title": "Zombie",
+        "year": "1977"
+    },
+    {
+        "artist": "Fleetwood Mac",
+        "title": "Rumours",
+        "year": "1977"
+    },
+    {
+        "artist": "Ian Dury",
+        "title": "New Boots And Panties!",
+        "year": "1977"
+    },
+    {
+        "artist": "Iggy Pop",
+        "title": "Lust For Life",
+        "year": "1977"
+    },
+    {
+        "artist": "Iggy Pop",
+        "title": "The Idiot",
+        "year": "1977"
+    },
+    {
+        "artist": "Jean Michel Jarre",
+        "title": "Oxygene",
+        "year": "1977"
+    },
+    {
+        "artist": "John Martyn",
+        "title": "One World",
+        "year": "1977"
+    },
+    {
+        "artist": "Kraftwerk",
+        "title": "Trans-Europe Express",
+        "year": "1977"
+    },
+    {
+        "artist": "Pere Ubu",
+        "title": "The Modern Dance",
+        "year": "1977"
+    },
+    {
+        "artist": "Peter Gabriel",
+        "title": "Peter Gabriel I",
+        "year": "1977"
+    },
+    {
+        "artist": "Sex Pistols",
+        "title": "Never Mind The Bollocks, Here's The Sex Pistols",
+        "year": "1977"
+    },
+    {
+        "artist": "Steely Dan",
+        "title": "Aja",
+        "year": "1977"
+    },
+    {
+        "artist": "Suicide",
+        "title": "Suicide",
+        "year": "1977"
+    },
+    {
+        "artist": "Talking Heads",
+        "title": "Talking Heads 77",
+        "year": "1977"
+    },
+    {
+        "artist": "The Clash",
+        "title": "The Clash",
+        "year": "1977"
+    },
+    {
+        "artist": "The Modern Lovers",
+        "title": "The Modern Lovers",
+        "year": "1977"
+    },
+    {
+        "artist": "The Penguin Cafe Orchestra",
+        "title": "Music From The Penguin Cafe",
+        "year": "1977"
+    },
+    {
+        "artist": "The Stranglers",
+        "title": "Rattus Norvegicus",
+        "year": "1977"
+    },
+    {
+        "artist": "Tom Petty & The Heartbreakers",
+        "title": "Tom Petty And The Heartbreakers",
+        "year": "1977"
+    },
+    {
+        "artist": "Weather Report",
+        "title": "Heavy Weather",
+        "year": "1977"
+    },
+    {
+        "artist": "Wire",
+        "title": "Pink Flag",
+        "year": "1977"
+    },
+    {
+        "artist": "Big Star",
+        "title": "Third/Sister Lovers",
+        "year": "1978"
+    },
+    {
+        "artist": "Blondie",
+        "title": "Parallel Lines",
+        "year": "1978"
+    },
+    {
+        "artist": "Brian Eno",
+        "title": "Ambient 1: Music For Airports",
+        "year": "1978"
+    },
+    {
+        "artist": "Bruce Springsteen",
+        "title": "Darkness On The Edge Of Town",
+        "year": "1978"
+    },
+    {
+        "artist": "Buzzcocks",
+        "title": "Another Music In A Different Kitchen",
+        "year": "1978"
+    },
+    {
+        "artist": "Cheap Trick",
+        "title": "At Budokan",
+        "year": "1978"
+    },
+    {
+        "artist": "Devo",
+        "title": "Q: Are We Not Men? A: We Are Devo!",
+        "year": "1978"
+    },
+    {
+        "artist": "Dire Straits",
+        "title": "Dire Straits",
+        "year": "1978"
+    },
+    {
+        "artist": "Elis Regina",
+        "title": "Vento De Maio",
+        "year": "1978"
+    },
+    {
+        "artist": "Elvis Costello",
+        "title": "This Year's Model",
+        "year": "1978"
+    },
+    {
+        "artist": "Funkadelic",
+        "title": "One Nation Under A Groove",
+        "year": "1978"
+    },
+    {
+        "artist": "Joe Ely",
+        "title": "Honky Tonk Masquerade",
+        "year": "1978"
+    },
+    {
+        "artist": "Kraftwerk",
+        "title": "The Man Machine",
+        "year": "1978"
+    },
+    {
+        "artist": "Magazine",
+        "title": "Real Life",
+        "year": "1978"
+    },
+    {
+        "artist": "Marvin Gaye",
+        "title": "Here, My Dear",
+        "year": "1978"
+    },
+    {
+        "artist": "Meat Loaf",
+        "title": "Bat Out Of Hell",
+        "year": "1978"
+    },
+    {
+        "artist": "Muddy Waters",
+        "title": "Hard Again",
+        "year": "1978"
+    },
+    {
+        "artist": "Pere Ubu",
+        "title": "Dub Housing",
+        "year": "1978"
+    },
+    {
+        "artist": "Public Image Ltd",
+        "title": "Public Image",
+        "year": "1978"
+    },
+    {
+        "artist": "Siouxsie & The Banshees",
+        "title": "The Scream",
+        "year": "1978"
+    },
+    {
+        "artist": "Talking Heads",
+        "title": "More Songs About Buildings And Food",
+        "year": "1978"
+    },
+    {
+        "artist": "Television",
+        "title": "Marquee Moon",
+        "year": "1978"
+    },
+    {
+        "artist": "The Adverts",
+        "title": "Crossing The Red Sea With The Adverts",
+        "year": "1978"
+    },
+    {
+        "artist": "The Cars",
+        "title": "The Cars",
+        "year": "1978"
+    },
+    {
+        "artist": "The Jam",
+        "title": "All Mod Cons",
+        "year": "1978"
+    },
+    {
+        "artist": "The Only Ones",
+        "title": "The Only Ones",
+        "year": "1978"
+    },
+    {
+        "artist": "The Residents",
+        "title": "Duck Stab/Buster And Glen",
+        "year": "1978"
+    },
+    {
+        "artist": "The Saints",
+        "title": "Eternally Yours",
+        "year": "1978"
+    },
+    {
+        "artist": "Thin Lizzy",
+        "title": "Live And Dangerous",
+        "year": "1978"
+    },
+    {
+        "artist": "Throbbing Gristle",
+        "title": "DOA: Third And Final Report",
+        "year": "1978"
+    },
+    {
+        "artist": "Van Halen",
+        "title": "Van Halen",
+        "year": "1978"
+    },
+    {
+        "artist": "Willie Colon & Ruben Blades",
+        "title": "Siembra",
+        "year": "1978"
+    },
+    {
+        "artist": "Willie Nelson",
+        "title": "Stardust",
+        "year": "1978"
+    },
+    {
+        "artist": "X-Ray Spex",
+        "title": "Germ Freen Adolescents",
+        "year": "1978"
+    },
+    {
+        "artist": "AC/DC",
+        "title": "Highway To Hell",
+        "year": "1979"
+    },
+    {
+        "artist": "Chic",
+        "title": "Risque",
+        "year": "1979"
+    },
+    {
+        "artist": "Crusaders",
+        "title": "Street Life",
+        "year": "1979"
+    },
+    {
+        "artist": "Elvis Costello & The Attractions",
+        "title": "Armed Forces",
+        "year": "1979"
+    },
+    {
+        "artist": "Fleetwood Mac",
+        "title": "Tusk",
+        "year": "1979"
+    },
+    {
+        "artist": "Gang Of Four",
+        "title": "Entertainment!",
+        "year": "1979"
+    },
+    {
+        "artist": "Gary Numan",
+        "title": "The Pleasure Principle",
+        "year": "1979"
+    },
+    {
+        "artist": "Holger Czukay",
+        "title": "Movies",
+        "year": "1979"
+    },
+    {
+        "artist": "Japan",
+        "title": "Quiet Life",
+        "year": "1979"
+    },
+    {
+        "artist": "Joy Division",
+        "title": "Unknown Pleasure",
+        "year": "1979"
+    },
+    {
+        "artist": "Marianne Faithfull",
+        "title": "Broken English",
+        "year": "1979"
+    },
+    {
+        "artist": "Michael Jackson",
+        "title": "Off The Wall",
+        "year": "1979"
+    },
+    {
+        "artist": "Neil Young With Crazy Horse",
+        "title": "Rust Never Sleeps",
+        "year": "1979"
+    },
+    {
+        "artist": "Pink Floyd",
+        "title": "The Wall",
+        "year": "1979"
+    },
+    {
+        "artist": "Pretenders",
+        "title": "Pretenders",
+        "year": "1979"
+    },
+    {
+        "artist": "Public Image Ltd",
+        "title": "Metal Box",
+        "year": "1979"
+    },
+    {
+        "artist": "Sister Sledge",
+        "title": "We Are Family",
+        "year": "1979"
+    },
+    {
+        "artist": "Talking Heads",
+        "title": "Fear Of Music",
+        "year": "1979"
+    },
+    {
+        "artist": "The B-52s",
+        "title": "The B-52s",
+        "year": "1979"
+    },
+    {
+        "artist": "The Clash",
+        "title": "London Calling",
+        "year": "1979"
+    },
+    {
+        "artist": "The Damned",
+        "title": "Machine Gun Etiquette",
+        "year": "1979"
+    },
+    {
+        "artist": "The Fall",
+        "title": "Live At The Witch Trails",
+        "year": "1979"
+    },
+    {
+        "artist": "The Germs",
+        "title": "GI",
+        "year": "1979"
+    },
+    {
+        "artist": "The Police",
+        "title": "Reggatta De Blanc",
+        "year": "1979"
+    },
+    {
+        "artist": "The Slits",
+        "title": "Cut",
+        "year": "1979"
+    },
+    {
+        "artist": "The Specials",
+        "title": "Specials",
+        "year": "1979"
+    },
+    {
+        "artist": "The Undertones",
+        "title": "The Undertones",
+        "year": "1979"
+    },
+    {
+        "artist": "AC/DC",
+        "title": "Back In Black",
+        "year": "1980"
+    },
+    {
+        "artist": "Adam & The Ants",
+        "title": "Kings Of The Wild Frontier",
+        "year": "1980"
+    },
+    {
+        "artist": "Dexys Midnight Runners",
+        "title": "Searching For The Young Soul Rebels",
+        "year": "1980"
+    },
+    {
+        "artist": "Echo & The Bunnymen",
+        "title": "Crocodiles",
+        "year": "1980"
+    },
+    {
+        "artist": "Iron Maiden",
+        "title": "Iron Maiden",
+        "year": "1980"
+    },
+    {
+        "artist": "Joy Division",
+        "title": "Closer",
+        "year": "1980"
+    },
+    {
+        "artist": "Judas Priest",
+        "title": "British Steel",
+        "year": "1980"
+    },
+    {
+        "artist": "Killing Joke",
+        "title": "Killing Joke",
+        "year": "1980"
+    },
+    {
+        "artist": "Motorhead",
+        "title": "Ace Of Spades",
+        "year": "1980"
+    },
+    {
+        "artist": "Peter Gabriel",
+        "title": "Peter Gabriel (III)",
+        "year": "1980"
+    },
+    {
+        "artist": "Steve Winwood",
+        "title": "Arc Of A Diver",
+        "year": "1980"
+    },
+    {
+        "artist": "Talking Heads",
+        "title": "Remain In Light",
+        "year": "1980"
+    },
+    {
+        "artist": "The Circle Jerks",
+        "title": "Group Sex",
+        "year": "1980"
+    },
+    {
+        "artist": "The Cramps",
+        "title": "Songs The Lord Taught Us",
+        "year": "1980"
+    },
+    {
+        "artist": "The Cure",
+        "title": "Seventeen Seconds",
+        "year": "1980"
+    },
+    {
+        "artist": "The Dead Kennedys",
+        "title": "Fresh Fruit For Rotting Vegetables",
+        "year": "1980"
+    },
+    {
+        "artist": "The Jam",
+        "title": "Sound Affects",
+        "year": "1980"
+    },
+    {
+        "artist": "The Soft Boys",
+        "title": "Underwater Moonlight",
+        "year": "1980"
+    },
+    {
+        "artist": "The Specials",
+        "title": "More Specials",
+        "year": "1980"
+    },
+    {
+        "artist": "The Teardrop Explodes",
+        "title": "Kilimanjaro",
+        "year": "1980"
+    },
+    {
+        "artist": "The Undertones",
+        "title": "Hypnotised",
+        "year": "1980"
+    },
+    {
+        "artist": "Tom Waits",
+        "title": "Heartattack And Vine",
+        "year": "1980"
+    },
+    {
+        "artist": "UB40",
+        "title": "Signing Off",
+        "year": "1980"
+    },
+    {
+        "artist": "ABBA",
+        "title": "The Visitors",
+        "year": "1981"
+    },
+    {
+        "artist": "Bauhaus",
+        "title": "Mask",
+        "year": "1981"
+    },
+    {
+        "artist": "Black Flag",
+        "title": "Damaged",
+        "year": "1981"
+    },
+    {
+        "artist": "Bobby Womack",
+        "title": "The Poet",
+        "year": "1981"
+    },
+    {
+        "artist": "Brian Eno & David Byrne",
+        "title": "My Life In The Bush Of Ghosts",
+        "year": "1981"
+    },
+    {
+        "artist": "Einsturzende Neubauten",
+        "title": "Kollaps",
+        "year": "1981"
+    },
+    {
+        "artist": "Heaven 17",
+        "title": "Penthouse And Pavement",
+        "year": "1981"
+    },
+    {
+        "artist": "Motorhead",
+        "title": "No Sleep 'Til Hammersmith",
+        "year": "1981"
+    },
+    {
+        "artist": "Rush",
+        "title": "Moving Pictures",
+        "year": "1981"
+    },
+    {
+        "artist": "Siouxsie & The Banshees",
+        "title": "Juju",
+        "year": "1981"
+    },
+    {
+        "artist": "Soft Cell",
+        "title": "Non-Stop Erotic Cabaret",
+        "year": "1981"
+    },
+    {
+        "artist": "The Go-Gos",
+        "title": "Beauty And The Beat",
+        "year": "1981"
+    },
+    {
+        "artist": "The Gun Club",
+        "title": "Fire Of Love",
+        "year": "1981"
+    },
+    {
+        "artist": "The Human League",
+        "title": "Dare",
+        "year": "1981"
+    },
+    {
+        "artist": "The Psychedelic Furs",
+        "title": "Talk, Talk, Talk",
+        "year": "1981"
+    },
+    {
+        "artist": "Tom Tom Club",
+        "title": "Tom Tom Club",
+        "year": "1981"
+    },
+    {
+        "artist": "X",
+        "title": "Wild Gift",
+        "year": "1981"
+    },
+    {
+        "artist": "ABC",
+        "title": "The Lexicon Of Love",
+        "year": "1982"
+    },
+    {
+        "artist": "Associates",
+        "title": "Sulk",
+        "year": "1982"
+    },
+    {
+        "artist": "Birthday Party",
+        "title": "Junkyard",
+        "year": "1982"
+    },
+    {
+        "artist": "Bruce Springsteen",
+        "title": "Nebraska",
+        "year": "1982"
+    },
+    {
+        "artist": "Dexys Midnight Runners",
+        "title": "Too-Rye-Ay",
+        "year": "1982"
+    },
+    {
+        "artist": "Donald Fagen",
+        "title": "The Nightfly",
+        "year": "1982"
+    },
+    {
+        "artist": "Elvis Costello & The Attractions",
+        "title": "Imperial Bedroom",
+        "year": "1982"
+    },
+    {
+        "artist": "Grandmaster Flash & The Furious Five",
+        "title": "The Message",
+        "year": "1982"
+    },
+    {
+        "artist": "Haircut One Hundred",
+        "title": "Pelican West",
+        "year": "1982"
+    },
+    {
+        "artist": "Iron Maiden",
+        "title": "The Number Of The Beast",
+        "year": "1982"
+    },
+    {
+        "artist": "Kate Bush",
+        "title": "The Dreaming",
+        "year": "1982"
+    },
+    {
+        "artist": "Madness",
+        "title": "The Rise And Fall",
+        "year": "1982"
+    },
+    {
+        "artist": "Michael Jackson",
+        "title": "Thriller",
+        "year": "1982"
+    },
+    {
+        "artist": "Orange Juice",
+        "title": "Rip It Up",
+        "year": "1982"
+    },
+    {
+        "artist": "Prince",
+        "title": "1999",
+        "year": "1982"
+    },
+    {
+        "artist": "Simple Minds",
+        "title": "New Gold Dream (81, 82, 83, 84)",
+        "year": "1982"
+    },
+    {
+        "artist": "The Cure",
+        "title": "Pornography",
+        "year": "1982"
+    },
+    {
+        "artist": "Venom",
+        "title": "Black Metal",
+        "year": "1982"
+    },
+    {
+        "artist": "Violent Femmes",
+        "title": "Violent Femmes",
+        "year": "1982"
+    },
+    {
+        "artist": "Culture Club",
+        "title": "Colour By Numbers",
+        "year": "1983"
+    },
+    {
+        "artist": "Def Leppard",
+        "title": "Pyromania",
+        "year": "1983"
+    },
+    {
+        "artist": "Duran Duran",
+        "title": "Rio",
+        "year": "1983"
+    },
+    {
+        "artist": "Echo & The Bunnymen",
+        "title": "Porcupine",
+        "year": "1983"
+    },
+    {
+        "artist": "Eurythmics",
+        "title": "Sweet Dreams (Are Made Of This)",
+        "year": "1983"
+    },
+    {
+        "artist": "Hanoi Rocks",
+        "title": "Back To Mystery City",
+        "year": "1983"
+    },
+    {
+        "artist": "Malcolm McLaren",
+        "title": "Duck Rock",
+        "year": "1983"
+    },
+    {
+        "artist": "Meat Puppets",
+        "title": "Meat Puppets II",
+        "year": "1983"
+    },
+    {
+        "artist": "Minor Threat",
+        "title": "Out Of Step",
+        "year": "1983"
+    },
+    {
+        "artist": "Orchestral Manoeuvres In The Dark",
+        "title": "Architecture And Morality",
+        "year": "1983"
+    },
+    {
+        "artist": "Paul Simon",
+        "title": "Hearts And Bones",
+        "year": "1983"
+    },
+    {
+        "artist": "REM",
+        "title": "Murmur",
+        "year": "1983"
+    },
+    {
+        "artist": "The Police",
+        "title": "Synchronicity",
+        "year": "1983"
+    },
+    {
+        "artist": "The The",
+        "title": "Soul Mining",
+        "year": "1983"
+    },
+    {
+        "artist": "Tom Waits",
+        "title": "Swordfishtrombones",
+        "year": "1983"
+    },
+    {
+        "artist": "U2",
+        "title": "War",
+        "year": "1983"
+    },
+    {
+        "artist": "ZZ Top",
+        "title": "Eliminator",
+        "year": "1983"
+    },
+    {
+        "artist": "Blue Nile",
+        "title": "A Walk Across The Rooftops",
+        "year": "1984"
+    },
+    {
+        "artist": "Bruce Springsteen",
+        "title": "Born In The USA",
+        "year": "1984"
+    },
+    {
+        "artist": "Cyndi Lauper",
+        "title": "She's So Unusual",
+        "year": "1984"
+    },
+    {
+        "artist": "Cocteau Twins",
+        "title": "Treasure",
+        "year": "1984"
+    },
+    {
+        "artist": "Echo & The Bunnymen",
+        "title": "Ocean Rain",
+        "year": "1984"
+    },
+    {
+        "artist": "Frankie Goes To Hollywood",
+        "title": "Welcome To The Pleasuredome",
+        "year": "1984"
+    },
+    {
+        "artist": "Lloyd Cole & The Commotions",
+        "title": "Rattlesnakes",
+        "year": "1984"
+    },
+    {
+        "artist": "Minutemen",
+        "title": "Double Nickels On The Dime",
+        "year": "1984"
+    },
+    {
+        "artist": "Prince & The Revolution",
+        "title": "Purple Rain",
+        "year": "1984"
+    },
+    {
+        "artist": "Run-DMC",
+        "title": "Run-DMC",
+        "year": "1984"
+    },
+    {
+        "artist": "Sade",
+        "title": "Diamond Life",
+        "year": "1984"
+    },
+    {
+        "artist": "The Replacements",
+        "title": "Let It Be",
+        "year": "1984"
+    },
+    {
+        "artist": "The Style Council",
+        "title": "Caf\u00e9 Bleu",
+        "year": "1984"
+    },
+    {
+        "artist": "Tina Turner",
+        "title": "Private Dancer",
+        "year": "1984"
+    },
+    {
+        "artist": "Van Halen",
+        "title": "1984",
+        "year": "1984"
+    },
+    {
+        "artist": "Youssou N'Dour",
+        "title": "Immigres",
+        "year": "1984"
+    },
+    {
+        "artist": "Abdullah Ibrahim",
+        "title": "Water From An Ancient Well",
+        "year": "1985"
+    },
+    {
+        "artist": "A-Ha",
+        "title": "Hunting High And Low",
+        "year": "1985"
+    },
+    {
+        "artist": "Dexys Midnight Runners",
+        "title": "Don't Stand Me Down",
+        "year": "1985"
+    },
+    {
+        "artist": "Dire Straits",
+        "title": "Brothers In Arms",
+        "year": "1985"
+    },
+    {
+        "artist": "Kate Bush",
+        "title": "Hounds Of Love",
+        "year": "1985"
+    },
+    {
+        "artist": "Mekons",
+        "title": "Fear And Whiskey",
+        "year": "1985"
+    },
+    {
+        "artist": "New Order",
+        "title": "Low Life",
+        "year": "1985"
+    },
+    {
+        "artist": "Prefab Sprout",
+        "title": "Steve McQueen",
+        "year": "1985"
+    },
+    {
+        "artist": "Scritti Politti",
+        "title": "Cupid And Psyche 85",
+        "year": "1985"
+    },
+    {
+        "artist": "Simply Red",
+        "title": "Picture Book",
+        "year": "1985"
+    },
+    {
+        "artist": "Suzanne Vega",
+        "title": "Suzanne Vega",
+        "year": "1985"
+    },
+    {
+        "artist": "Tears For Fears",
+        "title": "Songs From The Big Chair",
+        "year": "1985"
+    },
+    {
+        "artist": "The Fall",
+        "title": "This Nation's Saving Grace",
+        "year": "1985"
+    },
+    {
+        "artist": "The Jesus & Mary Chain",
+        "title": "Psychocandy",
+        "year": "1985"
+    },
+    {
+        "artist": "The Pogues",
+        "title": "Rum, Sodomy And The Lash",
+        "year": "1985"
+    },
+    {
+        "artist": "The Smiths",
+        "title": "Meat Is Murder",
+        "year": "1985"
+    },
+    {
+        "artist": "Tom Waits",
+        "title": "Rain Dogs",
+        "year": "1985"
+    },
+    {
+        "artist": "Afrika Bambaataa & The Soul Sonic Force",
+        "title": "Planet Rock: The Album",
+        "year": "1986"
+    },
+    {
+        "artist": "Anita Baker",
+        "title": "Rapture",
+        "year": "1986"
+    },
+    {
+        "artist": "Bad Brains",
+        "title": "I Against I",
+        "year": "1986"
+    },
+    {
+        "artist": "Beastie Boys",
+        "title": "Licensed To Ill",
+        "year": "1986"
+    },
+    {
+        "artist": "Big Black",
+        "title": "Atomizer",
+        "year": "1986"
+    },
+    {
+        "artist": "Billy Bragg",
+        "title": "Talking With The Taxman About Poetry",
+        "year": "1986"
+    },
+    {
+        "artist": "Bon Jovi",
+        "title": "Slippery When Wet",
+        "year": "1986"
+    },
+    {
+        "artist": "Elvis Costello & The Attractions",
+        "title": "Blood And Chocolate",
+        "year": "1986"
+    },
+    {
+        "artist": "Megadeth",
+        "title": "Peace Sells But Who's Buying?",
+        "year": "1986"
+    },
+    {
+        "artist": "Metallica",
+        "title": "Master Of Puppets",
+        "year": "1986"
+    },
+    {
+        "artist": "Nanci Griffith",
+        "title": "The Last Of The True Believers",
+        "year": "1986"
+    },
+    {
+        "artist": "Paul Simon",
+        "title": "Graceland",
+        "year": "1986"
+    },
+    {
+        "artist": "Peter Gabriel",
+        "title": "So",
+        "year": "1986"
+    },
+    {
+        "artist": "Run-DMC",
+        "title": "Raising Hell",
+        "year": "1986"
+    },
+    {
+        "artist": "Slayer",
+        "title": "Reign In Blood",
+        "year": "1986"
+    },
+    {
+        "artist": "Sonic Youth",
+        "title": "Evol",
+        "year": "1986"
+    },
+    {
+        "artist": "Steve Earle",
+        "title": "Guitar Town",
+        "year": "1986"
+    },
+    {
+        "artist": "The Smiths",
+        "title": "The Queen Is Dead",
+        "year": "1986"
+    },
+    {
+        "artist": "The The",
+        "title": "Infected",
+        "year": "1986"
+    },
+    {
+        "artist": "Throwing Muses",
+        "title": "Throwing Muses",
+        "year": "1986"
+    },
+    {
+        "artist": "XTC",
+        "title": "Skylarking",
+        "year": "1986"
+    },
+    {
+        "artist": "Anthrax",
+        "title": "Among The Living",
+        "year": "1987"
+    },
+    {
+        "artist": "Astor Piazzolla & Gary Burton",
+        "title": "The New Tango",
+        "year": "1987"
+    },
+    {
+        "artist": "Butthole Surfers",
+        "title": "Locust Abortion Technician",
+        "year": "1987"
+    },
+    {
+        "artist": "Def Leppard",
+        "title": "Hysteria",
+        "year": "1987"
+    },
+    {
+        "artist": "Depeche Mode",
+        "title": "Music For The Masses",
+        "year": "1987"
+    },
+    {
+        "artist": "Dinosaur Jr",
+        "title": "You're Living All Over Me",
+        "year": "1987"
+    },
+    {
+        "artist": "Dolly Parton With Linda Ronstadt & Emmylou Harris",
+        "title": "Trio",
+        "year": "1987"
+    },
+    {
+        "artist": "George Michael",
+        "title": "Faith",
+        "year": "1987"
+    },
+    {
+        "artist": "Guns N' Roses",
+        "title": "Appetite For Destruction",
+        "year": "1987"
+    },
+    {
+        "artist": "Husker Du",
+        "title": "Warehouse: Songs And Stories",
+        "year": "1987"
+    },
+    {
+        "artist": "John Zorn",
+        "title": "Spy Vs Spy: The Music Of Ornette Coleman",
+        "year": "1987"
+    },
+    {
+        "artist": "Ladysmith Black Mambazo",
+        "title": "Shaka Zulu",
+        "year": "1987"
+    },
+    {
+        "artist": "Laibach",
+        "title": "Opus Dei",
+        "year": "1987"
+    },
+    {
+        "artist": "Michael Jackson",
+        "title": "Bad",
+        "year": "1987"
+    },
+    {
+        "artist": "Napalm Death",
+        "title": "Scum",
+        "year": "1987"
+    },
+    {
+        "artist": "Pet Shop Boys",
+        "title": "Actually",
+        "year": "1987"
+    },
+    {
+        "artist": "Prince",
+        "title": "Sign 'O' The Times",
+        "year": "1987"
+    },
+    {
+        "artist": "REM",
+        "title": "Document",
+        "year": "1987"
+    },
+    {
+        "artist": "Sonic Youth",
+        "title": "Sister",
+        "year": "1987"
+    },
+    {
+        "artist": "Talk Talk",
+        "title": "The Colour Of Spring",
+        "year": "1987"
+    },
+    {
+        "artist": "Terence Trent D'Arby",
+        "title": "Introducing The Hardline According To Terence Trent D'Arby",
+        "year": "1987"
+    },
+    {
+        "artist": "The Cult",
+        "title": "Electric",
+        "year": "1987"
+    },
+    {
+        "artist": "The Jesus & Mary Chain",
+        "title": "Darklands",
+        "year": "1987"
+    },
+    {
+        "artist": "The Sisters Of Mercy",
+        "title": "Floodland",
+        "year": "1987"
+    },
+    {
+        "artist": "The Smiths",
+        "title": "Strangeways, Here We Come",
+        "year": "1987"
+    },
+    {
+        "artist": "The Triffids",
+        "title": "Calenture",
+        "year": "1987"
+    },
+    {
+        "artist": "U2",
+        "title": "The Joshua Tree",
+        "year": "1987"
+    },
+    {
+        "artist": "American Music Club",
+        "title": "California",
+        "year": "1988"
+    },
+    {
+        "artist": "Cowboy Junkies",
+        "title": "Trinity Session",
+        "year": "1988"
+    },
+    {
+        "artist": "Dagmar Krause",
+        "title": "Tank Battles",
+        "year": "1988"
+    },
+    {
+        "artist": "Dinosaur Jr",
+        "title": "Bug",
+        "year": "1988"
+    },
+    {
+        "artist": "Dwight Yoakam",
+        "title": "Beuenas Noches From A Lonely Room",
+        "year": "1988"
+    },
+    {
+        "artist": "Everything But The Girl",
+        "title": "Idlewild",
+        "year": "1988"
+    },
+    {
+        "artist": "Fishbone",
+        "title": "Truth And Soul",
+        "year": "1988"
+    },
+    {
+        "artist": "Happy Mondays",
+        "title": "Bummed",
+        "year": "1988"
+    },
+    {
+        "artist": "Jane's Addiction",
+        "title": "Nothing's Shocking",
+        "year": "1988"
+    },
+    {
+        "artist": "KD Lang",
+        "title": "Shadowland",
+        "year": "1988"
+    },
+    {
+        "artist": "Leonard Cohen",
+        "title": "I'm Your Man",
+        "year": "1988"
+    },
+    {
+        "artist": "Living Colour",
+        "title": "Vivid",
+        "year": "1988"
+    },
+    {
+        "artist": "Metallica",
+        "title": "And Justice For All",
+        "year": "1988"
+    },
+    {
+        "artist": "Morrissey",
+        "title": "Viva Hate",
+        "year": "1988"
+    },
+    {
+        "artist": "Mudhoney",
+        "title": "Superfuzz Bigmuff",
+        "year": "1988"
+    },
+    {
+        "artist": "My Bloody Valentine",
+        "title": "Isn't Anything",
+        "year": "1988"
+    },
+    {
+        "artist": "NWA",
+        "title": "Straight Outta Compton",
+        "year": "1988"
+    },
+    {
+        "artist": "Pixies",
+        "title": "Surfer Rosa",
+        "year": "1988"
+    },
+    {
+        "artist": "Public Enemy",
+        "title": "It Takes A Nation Of Millions To Hold Us Back",
+        "year": "1988"
+    },
+    {
+        "artist": "Sonic Youth",
+        "title": "Daydream Nation",
+        "year": "1988"
+    },
+    {
+        "artist": "The Go-Betweens",
+        "title": "16 Lovers Lane",
+        "year": "1988"
+    },
+    {
+        "artist": "The Pogues",
+        "title": "If I Should Fall From Grace With God",
+        "year": "1988"
+    },
+    {
+        "artist": "The Sugarcubes",
+        "title": "Life's Too Good",
+        "year": "1988"
+    },
+    {
+        "artist": "The Waterboys",
+        "title": "Fisherman's Blues",
+        "year": "1988"
+    },
+    {
+        "artist": "Tracy Chapman",
+        "title": "Tracy Chapman",
+        "year": "1988"
+    },
+    {
+        "artist": "808 State",
+        "title": "808:90",
+        "year": "1989"
+    },
+    {
+        "artist": "Aerosmith",
+        "title": "Pump",
+        "year": "1989"
+    },
+    {
+        "artist": "Baaba Maal & Mansour Seck",
+        "title": "Djam Leelii",
+        "year": "1989"
+    },
+    {
+        "artist": "Barry Adamson",
+        "title": "Moss Side Story",
+        "year": "1989"
+    },
+    {
+        "artist": "Beastie Boys",
+        "title": "Paul's Boutique",
+        "year": "1989"
+    },
+    {
+        "artist": "Bonnie Raitt",
+        "title": "Nick Of Time",
+        "year": "1989"
+    },
+    {
+        "artist": "Coldcut",
+        "title": "What's That Noise?",
+        "year": "1989"
+    },
+    {
+        "artist": "De La Soul",
+        "title": "3 Feet High And Rising",
+        "year": "1989"
+    },
+    {
+        "artist": "Faith No More",
+        "title": "The Real Thing",
+        "year": "1989"
+    },
+    {
+        "artist": "Firehose",
+        "title": "Fromohio",
+        "year": "1989"
+    },
+    {
+        "artist": "Janet Jackson",
+        "title": "Rhythm Nation 1814",
+        "year": "1989"
+    },
+    {
+        "artist": "John Lee Hooker",
+        "title": "The Healer",
+        "year": "1989"
+    },
+    {
+        "artist": "Jungle Brothers",
+        "title": "Done By The Forces Of Nature",
+        "year": "1989"
+    },
+    {
+        "artist": "Kate Bush",
+        "title": "Sensual World",
+        "year": "1989"
+    },
+    {
+        "artist": "Lenny Kravitz",
+        "title": "Let Love Rule",
+        "year": "1989"
+    },
+    {
+        "artist": "Madonna",
+        "title": "Like A Prayer",
+        "year": "1989"
+    },
+    {
+        "artist": "Neneh Cherry",
+        "title": "Raw Like Sushi",
+        "year": "1989"
+    },
+    {
+        "artist": "New Order",
+        "title": "Technique",
+        "year": "1989"
+    },
+    {
+        "artist": "Pixies",
+        "title": "Doolittle",
+        "year": "1989"
+    },
+    {
+        "artist": "Queen Latifah",
+        "title": "All Hail The Queen",
+        "year": "1989"
+    },
+    {
+        "artist": "REM",
+        "title": "Green",
+        "year": "1989"
+    },
+    {
+        "artist": "Soul II Soul",
+        "title": "Club Classics: Vol One",
+        "year": "1989"
+    },
+    {
+        "artist": "Spacemen 3",
+        "title": "Playing With Fire",
+        "year": "1989"
+    },
+    {
+        "artist": "The Stone Roses",
+        "title": "The Stone Roses",
+        "year": "1989"
+    },
+    {
+        "artist": "The Young Gods",
+        "title": "L'Eau Rouge",
+        "year": "1989"
+    },
+    {
+        "artist": "A Tribe Called Quest",
+        "title": "People's Instinctive Travels And The Paths Of Rhythm",
+        "year": "1990"
+    },
+    {
+        "artist": "Cocteau Twins",
+        "title": "Heaven Or Las Vegas",
+        "year": "1990"
+    },
+    {
+        "artist": "Deee-Lite",
+        "title": "World Clique",
+        "year": "1990"
+    },
+    {
+        "artist": "Depeche Mode",
+        "title": "Violator",
+        "year": "1990"
+    },
+    {
+        "artist": "Digital Underground",
+        "title": "Sex Packets",
+        "year": "1990"
+    },
+    {
+        "artist": "Fugazi",
+        "title": "Repeater",
+        "year": "1990"
+    },
+    {
+        "artist": "George Michael",
+        "title": "Listen Without Prejudice: Vol 1",
+        "year": "1990"
+    },
+    {
+        "artist": "Happy Mondays",
+        "title": "Pills 'N' Thrills And Bellyaches",
+        "year": "1990"
+    },
+    {
+        "artist": "Ice Cube",
+        "title": "AmeriKKKa's Most Wanted",
+        "year": "1990"
+    },
+    {
+        "artist": "Jane's Addiction",
+        "title": "Ritual De Lo Habitual",
+        "year": "1990"
+    },
+    {
+        "artist": "LL Cool J",
+        "title": "Mama Said Knock You Out",
+        "year": "1990"
+    },
+    {
+        "artist": "Megadeth",
+        "title": "Rust In Peace",
+        "year": "1990"
+    },
+    {
+        "artist": "Neil Young With Crazy Horse",
+        "title": "Ragged Glory",
+        "year": "1990"
+    },
+    {
+        "artist": "Pet Shop Boys",
+        "title": "Behaviour",
+        "year": "1990"
+    },
+    {
+        "artist": "Pixies",
+        "title": "Bossanova",
+        "year": "1990"
+    },
+    {
+        "artist": "Public Enemy",
+        "title": "Fear Of A Black Planet",
+        "year": "1990"
+    },
+    {
+        "artist": "Ride",
+        "title": "Nowhere",
+        "year": "1990"
+    },
+    {
+        "artist": "Sinead O'Connor",
+        "title": "I Do Not Want What I Haven't Got",
+        "year": "1990"
+    },
+    {
+        "artist": "Sonic Youth",
+        "title": "Goo",
+        "year": "1990"
+    },
+    {
+        "artist": "The Black Crowes",
+        "title": "Shake Your Money Maker",
+        "year": "1990"
+    },
+    {
+        "artist": "The Cure",
+        "title": "Disintegration",
+        "year": "1990"
+    },
+    {
+        "artist": "The KLF",
+        "title": "White Room",
+        "year": "1990"
+    },
+    {
+        "artist": "The La's",
+        "title": "The La's",
+        "year": "1990"
+    },
+    {
+        "artist": "The Shamen",
+        "title": "En-Tact",
+        "year": "1990"
+    },
+    {
+        "artist": "A Tribe Called Quest",
+        "title": "Low End Theory",
+        "year": "1991"
+    },
+    {
+        "artist": "Crowded House",
+        "title": "Woodface",
+        "year": "1991"
+    },
+    {
+        "artist": "Cypress Hill",
+        "title": "Cypress Hill",
+        "year": "1991"
+    },
+    {
+        "artist": "Gang Starr",
+        "title": "Step In The Arena",
+        "year": "1991"
+    },
+    {
+        "artist": "Ice T",
+        "title": "OG: Original Gangster",
+        "year": "1991"
+    },
+    {
+        "artist": "Jah Wobble & The Invaders Of The Heart",
+        "title": "Rising Above Bedlam",
+        "year": "1991"
+    },
+    {
+        "artist": "Julian Cope",
+        "title": "Peggy Suicide",
+        "year": "1991"
+    },
+    {
+        "artist": "Koffi Olomide",
+        "title": "Haut De Gamme: Koweit, Rive Gauche",
+        "year": "1991"
+    },
+    {
+        "artist": "Massive Attack",
+        "title": "Blue Lines",
+        "year": "1991"
+    },
+    {
+        "artist": "Metallica",
+        "title": "Metallica",
+        "year": "1991"
+    },
+    {
+        "artist": "Mudhoney",
+        "title": "Every Good Boy Deserves Fudge",
+        "year": "1991"
+    },
+    {
+        "artist": "My Bloody Valentine",
+        "title": "Loveless",
+        "year": "1991"
+    },
+    {
+        "artist": "Nirvana",
+        "title": "Nevermind",
+        "year": "1991"
+    },
+    {
+        "artist": "Primal Scream",
+        "title": "Screamadelica",
+        "year": "1991"
+    },
+    {
+        "artist": "Public Enemy",
+        "title": "Apocalypse 9  The Enemy Strikes Back",
+        "year": "1991"
+    },
+    {
+        "artist": "Red Hot Chili Peppers",
+        "title": "Blood Sugar Sex Magic",
+        "year": "1991"
+    },
+    {
+        "artist": "Saint Etienne",
+        "title": "Foxbase Alpha",
+        "year": "1991"
+    },
+    {
+        "artist": "Sepultura",
+        "title": "Arise",
+        "year": "1991"
+    },
+    {
+        "artist": "Slint",
+        "title": "Spiderland",
+        "year": "1991"
+    },
+    {
+        "artist": "Teenage Fanclub",
+        "title": "Bandwagonesque",
+        "year": "1991"
+    },
+    {
+        "artist": "U2",
+        "title": "Achtung Baby",
+        "year": "1991"
+    },
+    {
+        "artist": "Alice In Chains",
+        "title": "Dirt",
+        "year": "1992"
+    },
+    {
+        "artist": "Aphex Twin",
+        "title": "Selected Ambient Works 85-92",
+        "year": "1992"
+    },
+    {
+        "artist": "Arrested Development",
+        "title": "3 Years, 5 Months And 2 Days In The Life Of Arrested Development",
+        "year": "1992"
+    },
+    {
+        "artist": "Baaba Maal",
+        "title": "Lam Toro",
+        "year": "1992"
+    },
+    {
+        "artist": "Disposable Heroes Of Hiphoprisy",
+        "title": "Hypocrisy Is The Greatest Luxury",
+        "year": "1992"
+    },
+    {
+        "artist": "KD Lang",
+        "title": "Ingenue",
+        "year": "1992"
+    },
+    {
+        "artist": "Lemonheads",
+        "title": "It's A Shame About Ray",
+        "year": "1992"
+    },
+    {
+        "artist": "Ministry",
+        "title": "Psalm 69",
+        "year": "1992"
+    },
+    {
+        "artist": "Morrissey",
+        "title": "Your Arsenal",
+        "year": "1992"
+    },
+    {
+        "artist": "Nick Cave & The Bad Seeds",
+        "title": "Henry's Dream, By Nick Cave & The Bad Seeds",
+        "year": "1992"
+    },
+    {
+        "artist": "Nusrat Fateh Ali Khan",
+        "title": "Devotional Songs",
+        "year": "1992"
+    },
+    {
+        "artist": "Pantera",
+        "title": "Vulgar Display Of Power",
+        "year": "1992"
+    },
+    {
+        "artist": "Pearl Jam",
+        "title": "Ten",
+        "year": "1992"
+    },
+    {
+        "artist": "PJ Harvey",
+        "title": "Dry",
+        "year": "1992"
+    },
+    {
+        "artist": "REM",
+        "title": "Automatic For The People",
+        "year": "1992"
+    },
+    {
+        "artist": "Sonic Youth",
+        "title": "Dirty",
+        "year": "1992"
+    },
+    {
+        "artist": "Spiritualized",
+        "title": "Lazer Guided Melodies",
+        "year": "1992"
+    },
+    {
+        "artist": "Stereo MCs",
+        "title": "Connected",
+        "year": "1992"
+    },
+    {
+        "artist": "Sugar",
+        "title": "Copper Blue",
+        "year": "1992"
+    },
+    {
+        "artist": "The Pharcyde",
+        "title": "Bizarre Ride II The Pharcyde",
+        "year": "1992"
+    },
+    {
+        "artist": "Tom Waits",
+        "title": "Bone Machine",
+        "year": "1992"
+    },
+    {
+        "artist": "Tori Amos",
+        "title": "Little Earthquakes",
+        "year": "1992"
+    },
+    {
+        "artist": "Afghan Whigs",
+        "title": "Gentlemen",
+        "year": "1993"
+    },
+    {
+        "artist": "Aimee Mann",
+        "title": "Whatever",
+        "year": "1993"
+    },
+    {
+        "artist": "Auteurs",
+        "title": "New Wave",
+        "year": "1993"
+    },
+    {
+        "artist": "Bjork",
+        "title": "Debut",
+        "year": "1993"
+    },
+    {
+        "artist": "Blur",
+        "title": "Modern Life Is Rubbish",
+        "year": "1993"
+    },
+    {
+        "artist": "Dre",
+        "title": "The Chronic",
+        "year": "1993"
+    },
+    {
+        "artist": "Girls Against Boys",
+        "title": "Venus Luxure No 1 Baby",
+        "year": "1993"
+    },
+    {
+        "artist": "Grant Lee Buffalo",
+        "title": "Fuzzy",
+        "year": "1993"
+    },
+    {
+        "artist": "Ice Cube",
+        "title": "Predator",
+        "year": "1993"
+    },
+    {
+        "artist": "Jamiroquai",
+        "title": "Emergency On Planet Earth",
+        "year": "1993"
+    },
+    {
+        "artist": "MC Solaar",
+        "title": "Qui Seme Le Vent Recolte Le Tempo",
+        "year": "1993"
+    },
+    {
+        "artist": "Nirvana",
+        "title": "In Utero",
+        "year": "1993"
+    },
+    {
+        "artist": "Orbital",
+        "title": "Orbital II",
+        "year": "1993"
+    },
+    {
+        "artist": "Paul Weller",
+        "title": "Wild Wood",
+        "year": "1993"
+    },
+    {
+        "artist": "Pavement",
+        "title": "Slanted And Enchanted",
+        "year": "1993"
+    },
+    {
+        "artist": "Pet Shop Boys",
+        "title": "Very",
+        "year": "1993"
+    },
+    {
+        "artist": "PJ Harvey",
+        "title": "Rid Of Me",
+        "year": "1993"
+    },
+    {
+        "artist": "Rage Against The Machine",
+        "title": "Rage Against The Machine",
+        "year": "1993"
+    },
+    {
+        "artist": "Sebadoh",
+        "title": "Bubble And Scrape",
+        "year": "1993"
+    },
+    {
+        "artist": "Sheryl Crow",
+        "title": "Tuesday Night Music Club",
+        "year": "1993"
+    },
+    {
+        "artist": "Snoop Doggy Dogg",
+        "title": "Doggystyle",
+        "year": "1993"
+    },
+    {
+        "artist": "Suede",
+        "title": "Suede",
+        "year": "1993"
+    },
+    {
+        "artist": "The Boo Radleys",
+        "title": "Giant Steps",
+        "year": "1993"
+    },
+    {
+        "artist": "The Fall",
+        "title": "Infotainment Scan",
+        "year": "1993"
+    },
+    {
+        "artist": "The Smashing Pumpkins",
+        "title": "Siamese Dream",
+        "year": "1993"
+    },
+    {
+        "artist": "William Orbit",
+        "title": "Strange Cargo III",
+        "year": "1993"
+    },
+    {
+        "artist": "Wu-Tang Clan",
+        "title": "Enter The Wu Tang (36 Chambers)",
+        "year": "1993"
+    },
+    {
+        "artist": "Ali Farka Toure",
+        "title": "Talking Timbuktu",
+        "year": "1994"
+    },
+    {
+        "artist": "Beastie Boys",
+        "title": "Ill Communication",
+        "year": "1994"
+    },
+    {
+        "artist": "Blur",
+        "title": "Parklife",
+        "year": "1994"
+    },
+    {
+        "artist": "Drive Like Jehu",
+        "title": "Yank Crime",
+        "year": "1994"
+    },
+    {
+        "artist": "Elvis Costello",
+        "title": "Brutal Youth",
+        "year": "1994"
+    },
+    {
+        "artist": "Frank Black",
+        "title": "Teenager Of The Year",
+        "year": "1994"
+    },
+    {
+        "artist": "G Love & Special Sauce",
+        "title": "G Love And Special Sauce",
+        "year": "1994"
+    },
+    {
+        "artist": "Green Day",
+        "title": "Dookie",
+        "year": "1994"
+    },
+    {
+        "artist": "Hole",
+        "title": "Live Through This",
+        "year": "1994"
+    },
+    {
+        "artist": "Jeru The Damaja",
+        "title": "The Sun Rises In The East",
+        "year": "1994"
+    },
+    {
+        "artist": "Liz Phair",
+        "title": "Exile In Guyville",
+        "year": "1994"
+    },
+    {
+        "artist": "Manic Street Preachers",
+        "title": "The Holy Bible",
+        "year": "1994"
+    },
+    {
+        "artist": "Massive Attack",
+        "title": "Protection",
+        "year": "1994"
+    },
+    {
+        "artist": "Method Man",
+        "title": "Tical",
+        "year": "1994"
+    },
+    {
+        "artist": "Morrissey",
+        "title": "Vauxhall And I",
+        "year": "1994"
+    },
+    {
+        "artist": "Nas",
+        "title": "Illmatic",
+        "year": "1994"
+    },
+    {
+        "artist": "Nine Inch Nails",
+        "title": "The Downward Spiral",
+        "year": "1994"
+    },
+    {
+        "artist": "Nirvana",
+        "title": "MTV Unplugged In New York",
+        "year": "1994"
+    },
+    {
+        "artist": "Oasis",
+        "title": "Definitely Maybe",
+        "year": "1994"
+    },
+    {
+        "artist": "Orbital",
+        "title": "Snivilisation",
+        "year": "1994"
+    },
+    {
+        "artist": "Pavement",
+        "title": "Crooked Rain, Crooked Rain",
+        "year": "1994"
+    },
+    {
+        "artist": "Portishead",
+        "title": "Dummy",
+        "year": "1994"
+    },
+    {
+        "artist": "Soundgarden",
+        "title": "Superunknown",
+        "year": "1994"
+    },
+    {
+        "artist": "Suede",
+        "title": "Dog Man Star",
+        "year": "1994"
+    },
+    {
+        "artist": "The Notorious BIG",
+        "title": "Ready To Die",
+        "year": "1994"
+    },
+    {
+        "artist": "The Offspring",
+        "title": "Smash",
+        "year": "1994"
+    },
+    {
+        "artist": "The Prodigy",
+        "title": "Music For The Jilted Generation",
+        "year": "1994"
+    },
+    {
+        "artist": "The Sabres Of Paradise",
+        "title": "Haunted Dancehall",
+        "year": "1994"
+    },
+    {
+        "artist": "Tupac",
+        "title": "Me Against The World",
+        "year": "1994"
+    },
+    {
+        "artist": "Alanis Morrissette",
+        "title": "Jagged Little Pill",
+        "year": "1995"
+    },
+    {
+        "artist": "D'Angelo",
+        "title": "Brown Sugar",
+        "year": "1995"
+    },
+    {
+        "artist": "Elastica",
+        "title": "Elastica",
+        "year": "1995"
+    },
+    {
+        "artist": "Femi Kuti",
+        "title": "Femi Kuti",
+        "year": "1995"
+    },
+    {
+        "artist": "Foo Fighters",
+        "title": "Foo Fighters",
+        "year": "1995"
+    },
+    {
+        "artist": "Garbage",
+        "title": "Garbage",
+        "year": "1995"
+    },
+    {
+        "artist": "Genius GZA",
+        "title": "Liquid Swords",
+        "year": "1995"
+    },
+    {
+        "artist": "Goldie",
+        "title": "Timeless",
+        "year": "1995"
+    },
+    {
+        "artist": "Guided By Voices",
+        "title": "Alien Lanes",
+        "year": "1995"
+    },
+    {
+        "artist": "Jeff Buckley",
+        "title": "Grace",
+        "year": "1995"
+    },
+    {
+        "artist": "Leftfield",
+        "title": "Leftism",
+        "year": "1995"
+    },
+    {
+        "artist": "Nightmares On Wax",
+        "title": "Smokers Delight",
+        "year": "1995"
+    },
+    {
+        "artist": "Oasis",
+        "title": "(What's The Story) Morning Glory?",
+        "year": "1995"
+    },
+    {
+        "artist": "Pulp",
+        "title": "Different Class",
+        "year": "1995"
+    },
+    {
+        "artist": "Radiohead",
+        "title": "The Bends",
+        "year": "1995"
+    },
+    {
+        "artist": "Raekwon",
+        "title": "Only Built 4 Cuban Linx",
+        "year": "1995"
+    },
+    {
+        "artist": "Rocket From The Crypt",
+        "title": "Scream, Dracula, Scream",
+        "year": "1995"
+    },
+    {
+        "artist": "Supergrass",
+        "title": "I Should Coco",
+        "year": "1995"
+    },
+    {
+        "artist": "The Chemical Brothers",
+        "title": "Exit Planet Dust",
+        "year": "1995"
+    },
+    {
+        "artist": "The Smashing Pumpkins",
+        "title": "Mellon Collie And The Infinite Sadness",
+        "year": "1995"
+    },
+    {
+        "artist": "The Verve",
+        "title": "A Northern Soul",
+        "year": "1995"
+    },
+    {
+        "artist": "TLC",
+        "title": "CrazySexyCool",
+        "year": "1995"
+    },
+    {
+        "artist": "Tricky",
+        "title": "Maxinquaye",
+        "year": "1995"
+    },
+    {
+        "artist": "Ash",
+        "title": "1977",
+        "year": "1996"
+    },
+    {
+        "artist": "Barry Adamson",
+        "title": "Oedipus Schmedipus",
+        "year": "1996"
+    },
+    {
+        "artist": "Beck",
+        "title": "Odelay",
+        "year": "1996"
+    },
+    {
+        "artist": "Belle & Sebastian",
+        "title": "If You're Feeling Sinister",
+        "year": "1996"
+    },
+    {
+        "artist": "Belle & Sebastian",
+        "title": "Tigermilk",
+        "year": "1996"
+    },
+    {
+        "artist": "DJ Shadow",
+        "title": "Endtroducing -1996",
+        "year": ""
+    },
+    {
+        "artist": "Dr Octagon",
+        "title": "Dr Octagonecologyst",
+        "year": "1996"
+    },
+    {
+        "artist": "Eels",
+        "title": "Beautiful Freak",
+        "year": "1996"
+    },
+    {
+        "artist": "Everything But The Girl",
+        "title": "Walking Wounded",
+        "year": "1996"
+    },
+    {
+        "artist": "Fatboy Slim",
+        "title": "Better Living Through Chemistry",
+        "year": "1996"
+    },
+    {
+        "artist": "Fiona Apple",
+        "title": "Tidal",
+        "year": "1996"
+    },
+    {
+        "artist": "Fugees",
+        "title": "The Score",
+        "year": "1996"
+    },
+    {
+        "artist": "Fun Lovin' Criminals",
+        "title": "Come Find Yourself",
+        "year": "1996"
+    },
+    {
+        "artist": "LTJ Bukem",
+        "title": "Logical Progression",
+        "year": "1996"
+    },
+    {
+        "artist": "Manic Street Preachers",
+        "title": "Everything Must Go",
+        "year": "1996"
+    },
+    {
+        "artist": "Marilyn Manson",
+        "title": "Antichrist Superstar",
+        "year": "1996"
+    },
+    {
+        "artist": "Maxwell",
+        "title": "Urban Hang Suite",
+        "year": "1996"
+    },
+    {
+        "artist": "Nick Cave & The Bad Seeds",
+        "title": "Murder Ballads",
+        "year": "1996"
+    },
+    {
+        "artist": "Screaming Trees",
+        "title": "Dust",
+        "year": "1996"
+    },
+    {
+        "artist": "Sepultura",
+        "title": "Roots",
+        "year": "1996"
+    },
+    {
+        "artist": "Stereolab",
+        "title": "Emperor Tomato Ketchup",
+        "year": "1996"
+    },
+    {
+        "artist": "Super Furry Animals",
+        "title": "Fuzzy Logic",
+        "year": "1996"
+    },
+    {
+        "artist": "The Cardigans",
+        "title": "First Band On The Moon",
+        "year": "1996"
+    },
+    {
+        "artist": "The Charlatans",
+        "title": "Tellin' Stories",
+        "year": "1996"
+    },
+    {
+        "artist": "The Divine Comedy",
+        "title": "Casanova",
+        "year": "1996"
+    },
+    {
+        "artist": "The Jon Spencer Blues Explosion",
+        "title": "Now I Got Worry",
+        "year": "1996"
+    },
+    {
+        "artist": "Tortoise",
+        "title": "Millions Now Living Will Never Die",
+        "year": "1996"
+    },
+    {
+        "artist": "Underworld",
+        "title": "Second Toughest In The Infants",
+        "year": "1996"
+    },
+    {
+        "artist": "Wilco",
+        "title": "Being There",
+        "year": "1996"
+    },
+    {
+        "artist": "Blur",
+        "title": "Blur",
+        "year": "1997"
+    },
+    {
+        "artist": "Bob Dylan",
+        "title": "Time Out Of Mind",
+        "year": "1997"
+    },
+    {
+        "artist": "Buena Vista Social Club",
+        "title": "Buena Vista Social Club",
+        "year": "1997"
+    },
+    {
+        "artist": "Cornershop",
+        "title": "When I Was Born For The 7th Time",
+        "year": "1997"
+    },
+    {
+        "artist": "Daft Punk",
+        "title": "Homework",
+        "year": "1997"
+    },
+    {
+        "artist": "David Holmes",
+        "title": "Let's Get Killed",
+        "year": "1997"
+    },
+    {
+        "artist": "Elliott Smith",
+        "title": "Either/Or",
+        "year": "1997"
+    },
+    {
+        "artist": "Finlay Quaye",
+        "title": "Maverick A Strike",
+        "year": "1997"
+    },
+    {
+        "artist": "Mariah Carey",
+        "title": "Butterfly",
+        "year": "1997"
+    },
+    {
+        "artist": "Missy Elliott",
+        "title": "Supa Dupa Fly",
+        "year": "1997"
+    },
+    {
+        "artist": "Nick Cave & The Bad Seeds",
+        "title": "The Boatman's Call",
+        "year": "1997"
+    },
+    {
+        "artist": "Primal Scream",
+        "title": "Vanishing Point",
+        "year": "1997"
+    },
+    {
+        "artist": "Radiohead",
+        "title": "OK Computer",
+        "year": "1997"
+    },
+    {
+        "artist": "Robbie Williams",
+        "title": "Life Thru A Lens",
+        "year": "1997"
+    },
+    {
+        "artist": "Robert Wyatt",
+        "title": "Shleep",
+        "year": "1997"
+    },
+    {
+        "artist": "Roni Size & Reprazent",
+        "title": "New Forms",
+        "year": "1997"
+    },
+    {
+        "artist": "Sleater-Kinney",
+        "title": "Dig Me Out",
+        "year": "1997"
+    },
+    {
+        "artist": "Spiritualized",
+        "title": "Ladies And Gentlemen, We Are Floating In Space",
+        "year": "1997"
+    },
+    {
+        "artist": "Supergrass",
+        "title": "In It For The Money",
+        "year": "1997"
+    },
+    {
+        "artist": "The Chemical Brothers",
+        "title": "Dig Your Own Hole",
+        "year": "1997"
+    },
+    {
+        "artist": "The Divine Comedy",
+        "title": "A Short Album About Love",
+        "year": "1997"
+    },
+    {
+        "artist": "The Prodigy",
+        "title": "The Fat Of The Land",
+        "year": "1997"
+    },
+    {
+        "artist": "The Verve",
+        "title": "Urban Hymns",
+        "year": "1997"
+    },
+    {
+        "artist": "Air",
+        "title": "Moon Safari",
+        "year": "1998"
+    },
+    {
+        "artist": "Billy Bragg & Wilco",
+        "title": "Mermaid Avenue",
+        "year": "1998"
+    },
+    {
+        "artist": "Boards Of Canada",
+        "title": "Music Has The Right To Children",
+        "year": "1998"
+    },
+    {
+        "artist": "Bob Dylan",
+        "title": "Bootleg Series Vol 4",
+        "year": "1998"
+    },
+    {
+        "artist": "Bonnie Prince Billy",
+        "title": "I See A Darkness",
+        "year": "1998"
+    },
+    {
+        "artist": "Britney Spears",
+        "title": "Baby One More Time",
+        "year": "1998"
+    },
+    {
+        "artist": "David Gray",
+        "title": "White Ladder",
+        "year": "1998"
+    },
+    {
+        "artist": "Fatboy Slim",
+        "title": "You've Come A Long Way, Baby",
+        "year": "1998"
+    },
+    {
+        "artist": "Hole",
+        "title": "Celebrity Skin",
+        "year": "1998"
+    },
+    {
+        "artist": "Khaled",
+        "title": "Kenza",
+        "year": "1998"
+    },
+    {
+        "artist": "Kid Rock",
+        "title": "Devil Without A Cause",
+        "year": "1998"
+    },
+    {
+        "artist": "Korn",
+        "title": "Follow The Leader",
+        "year": "1998"
+    },
+    {
+        "artist": "Lauryn Hill",
+        "title": "The Miseducation Of Lauryn Hill",
+        "year": "1998"
+    },
+    {
+        "artist": "Lucinda Williams",
+        "title": "Car Wheels On A Gravel Road",
+        "year": "1998"
+    },
+    {
+        "artist": "Madonna",
+        "title": "Ray Of Light",
+        "year": "1998"
+    },
+    {
+        "artist": "Manu Chao",
+        "title": "Clandestino",
+        "year": "1998"
+    },
+    {
+        "artist": "Mercury Rev",
+        "title": "Deserter's Songs",
+        "year": "1998"
+    },
+    {
+        "artist": "Pulp",
+        "title": "This Is Hardcore",
+        "year": "1998"
+    },
+    {
+        "artist": "Queens Of The Stone Age",
+        "title": "Queens Of The Stone Age",
+        "year": "1998"
+    },
+    {
+        "artist": "System Of A Down",
+        "title": "System Of A Down",
+        "year": "1998"
+    },
+    {
+        "artist": "Talvin Singh",
+        "title": "OK",
+        "year": "1998"
+    },
+    {
+        "artist": "Turbonegro",
+        "title": "Apocalypse Dudes",
+        "year": "1998"
+    },
+    {
+        "artist": "Basement Jaxx",
+        "title": "Remedy",
+        "year": "1999"
+    },
+    {
+        "artist": "Beth Orton",
+        "title": "Central Reservation",
+        "year": "1999"
+    },
+    {
+        "artist": "Death In Vegas",
+        "title": "The Contino Sessions",
+        "year": "1999"
+    },
+    {
+        "artist": "Eminem",
+        "title": "The Slim Shady LP",
+        "year": "1999"
+    },
+    {
+        "artist": "Flaming Lips",
+        "title": "The Soft Bulletin",
+        "year": "1999"
+    },
+    {
+        "artist": "Incubus",
+        "title": "Make Yourself",
+        "year": "1999"
+    },
+    {
+        "artist": "Les Rhythmes Digitales",
+        "title": "Darkdancer",
+        "year": "1999"
+    },
+    {
+        "artist": "Le Tigre",
+        "title": "Le Tigre",
+        "year": "1999"
+    },
+    {
+        "artist": "Metallica",
+        "title": "S&M",
+        "year": "1999"
+    },
+    {
+        "artist": "Moby",
+        "title": "Play",
+        "year": "1999"
+    },
+    {
+        "artist": "Nitin Sawhney",
+        "title": "Beyond Skin",
+        "year": "1999"
+    },
+    {
+        "artist": "Red Hot Chili Peppers",
+        "title": "Californication",
+        "year": "1999"
+    },
+    {
+        "artist": "Shack",
+        "title": "HMS Fable",
+        "year": "1999"
+    },
+    {
+        "artist": "Sigur Ros",
+        "title": "Agaetis Byrjun",
+        "year": "1999"
+    },
+    {
+        "artist": "Skunk Anansie",
+        "title": "Post Orgasmic Chill",
+        "year": "1999"
+    },
+    {
+        "artist": "Slipknot",
+        "title": "Slipknot",
+        "year": "1999"
+    },
+    {
+        "artist": "Suba",
+        "title": "Sao Paulo Confessions",
+        "year": "1999"
+    },
+    {
+        "artist": "The Magnetic Fields",
+        "title": "69 Love Songs",
+        "year": "1999"
+    },
+    {
+        "artist": "Travis",
+        "title": "The Man Who",
+        "year": "1999"
+    },
+    {
+        "artist": "XTC",
+        "title": "Apple Venus Volume 1",
+        "year": "1999"
+    },
+    {
+        "artist": "Air",
+        "title": "The Virgin Suicides",
+        "year": "2000"
+    },
+    {
+        "artist": "Badly Drawn Boy",
+        "title": "The Hour Of Bewilderbeast",
+        "year": "2000"
+    },
+    {
+        "artist": "Bebel Gilberto",
+        "title": "Tanto Tempo",
+        "year": "2000"
+    },
+    {
+        "artist": "Coldplay",
+        "title": "Parachutes",
+        "year": "2000"
+    },
+    {
+        "artist": "Common",
+        "title": "Like Water For Chocolate",
+        "year": "2000"
+    },
+    {
+        "artist": "Doves",
+        "title": "Lost Souls",
+        "year": "2000"
+    },
+    {
+        "artist": "Elliott Smith",
+        "title": "Figure 8",
+        "year": "2000"
+    },
+    {
+        "artist": "Eminem",
+        "title": "The Marshall Mathers LP",
+        "year": "2000"
+    },
+    {
+        "artist": "Emmylou Harris",
+        "title": "Red Dirt Girl",
+        "year": "2000"
+    },
+    {
+        "artist": "Erykah Badu",
+        "title": "Mama's Gun",
+        "year": "2000"
+    },
+    {
+        "artist": "Giant Sand",
+        "title": "Chore Of Enchantment",
+        "year": "2000"
+    },
+    {
+        "artist": "Goldfrapp",
+        "title": "Felt Mountain",
+        "year": "2000"
+    },
+    {
+        "artist": "Lambchop",
+        "title": "Nixon",
+        "year": "2000"
+    },
+    {
+        "artist": "Limp Bizkit",
+        "title": "Chocolate Starfish And The Hot Dog Flavoured Water",
+        "year": "2000"
+    },
+    {
+        "artist": "Linkin Park",
+        "title": "Hybrid Theory",
+        "year": "2000"
+    },
+    {
+        "artist": "Madonna",
+        "title": "Music",
+        "year": "2000"
+    },
+    {
+        "artist": "Mike Ladd",
+        "title": "Welcome To The Afterfuture",
+        "year": "2000"
+    },
+    {
+        "artist": "MJ Cole",
+        "title": "Sincere",
+        "year": "2000"
+    },
+    {
+        "artist": "OutKast",
+        "title": "Stankonia",
+        "year": "2000"
+    },
+    {
+        "artist": "PJ Harvey",
+        "title": "Stories From The City, Stories From The Sea",
+        "year": "2000"
+    },
+    {
+        "artist": "Radiohead",
+        "title": "Kid A",
+        "year": "2000"
+    },
+    {
+        "artist": "Red Snapper",
+        "title": "Our Aim Is To Satisfy",
+        "year": "2000"
+    },
+    {
+        "artist": "Ryan Adams",
+        "title": "Heartbreaker",
+        "year": "2000"
+    },
+    {
+        "artist": "The Avalanches",
+        "title": "Since I Left You",
+        "year": "2000"
+    },
+    {
+        "artist": "U2",
+        "title": "All That You Can't Leave Behind",
+        "year": "2000"
+    },
+    {
+        "artist": "Ute Lemper",
+        "title": "Punishing Kiss",
+        "year": "2000"
+    },
+    {
+        "artist": "Bjork",
+        "title": "Vespertine",
+        "year": "2001"
+    },
+    {
+        "artist": "Destiny's Child",
+        "title": "Survivor",
+        "year": "2001"
+    },
+    {
+        "artist": "Drive-By Truckers",
+        "title": "Southern Rock Opera",
+        "year": "2001"
+    },
+    {
+        "artist": "Gillian Welch",
+        "title": "Time (The Revelator)",
+        "year": "2001"
+    },
+    {
+        "artist": "Gorillaz",
+        "title": "Gorillaz",
+        "year": "2001"
+    },
+    {
+        "artist": "Gotan Project",
+        "title": "La Revancha Del Tango",
+        "year": "2001"
+    },
+    {
+        "artist": "Jay-Z",
+        "title": "The Blueprint",
+        "year": "2001"
+    },
+    {
+        "artist": "Radiohead",
+        "title": "Amnesiac",
+        "year": "2001"
+    },
+    {
+        "artist": "Royksopp",
+        "title": "Melody AM",
+        "year": "2001"
+    },
+    {
+        "artist": "Ryan Adams",
+        "title": "Gold",
+        "year": "2001"
+    },
+    {
+        "artist": "Silver Jews",
+        "title": "Bright Flight",
+        "year": "2001"
+    },
+    {
+        "artist": "Super Furry Animals",
+        "title": "Rings Around The World",
+        "year": "2001"
+    },
+    {
+        "artist": "The Beta Band",
+        "title": "Hot Shots II",
+        "year": "2001"
+    },
+    {
+        "artist": "The Hives",
+        "title": "Your New Favourite Band",
+        "year": "2001"
+    },
+    {
+        "artist": "The Strokes",
+        "title": "Is This It?",
+        "year": "2001"
+    },
+    {
+        "artist": "The White Stripes",
+        "title": "White Blood Cells",
+        "year": "2001"
+    },
+    {
+        "artist": "Beck",
+        "title": "Sea Change",
+        "year": "2002"
+    },
+    {
+        "artist": "Bruce Springsteen",
+        "title": "The Rising",
+        "year": "2002"
+    },
+    {
+        "artist": "Christina Aguilera",
+        "title": "Stripped",
+        "year": "2002"
+    },
+    {
+        "artist": "Coldplay",
+        "title": "A Rush Of Blood To The Head",
+        "year": "2002"
+    },
+    {
+        "artist": "Doves",
+        "title": "The Last Broadcast",
+        "year": "2002"
+    },
+    {
+        "artist": "Flaming Lips",
+        "title": "Yoshimi Battles The Pink Robots",
+        "year": "2002"
+    },
+    {
+        "artist": "Johnny Cash",
+        "title": "American IV: The Man Comes Around",
+        "year": "2002"
+    },
+    {
+        "artist": "Jurassic 5",
+        "title": "Power In Numbers",
+        "year": "2002"
+    },
+    {
+        "artist": "Justin Timberlake",
+        "title": "Justified",
+        "year": "2002"
+    },
+    {
+        "artist": "Missy Elliott",
+        "title": "Under Construction",
+        "year": "2002"
+    },
+    {
+        "artist": "Ms Dynamite",
+        "title": "A Little Deeper",
+        "year": "2002"
+    },
+    {
+        "artist": "Norah Jones",
+        "title": "Come Away With Me",
+        "year": "2002"
+    },
+    {
+        "artist": "The Bees",
+        "title": "Sunshine Hit Me",
+        "year": "2002"
+    },
+    {
+        "artist": "The Coral",
+        "title": "The Coral",
+        "year": "2002"
+    },
+    {
+        "artist": "The Roots",
+        "title": "Phrenology",
+        "year": "2002"
+    },
+    {
+        "artist": "The Vines",
+        "title": "Highly Evolved",
+        "year": "2002"
+    },
+    {
+        "artist": "Wilco",
+        "title": "Yankee Hotel Foxtrot",
+        "year": "2002"
+    },
+    {
+        "artist": "50 Cent",
+        "title": "Get Rich Or Die Tryin'",
+        "year": "2003"
+    },
+    {
+        "artist": "Amy Winehouse",
+        "title": "Frank",
+        "year": "2003"
+    },
+    {
+        "artist": "Calexico",
+        "title": "Feast Of Wire",
+        "year": "2003"
+    },
+    {
+        "artist": "Dizzee Rascal",
+        "title": "Boy In Da Corner",
+        "year": "2003"
+    },
+    {
+        "artist": "Kings Of Leon",
+        "title": "Youth & Young Manhood",
+        "year": "2003"
+    },
+    {
+        "artist": "Lightning Bolt",
+        "title": "Wonderful Rainbow",
+        "year": "2003"
+    },
+    {
+        "artist": "Mars Volta",
+        "title": "De-Loused In The Comatorium",
+        "year": "2003"
+    },
+    {
+        "artist": "OutKast",
+        "title": "Speakerboxxx/The Love Below",
+        "year": "2003"
+    },
+    {
+        "artist": "Radiohead",
+        "title": "Hail To The Thief",
+        "year": "2003"
+    },
+    {
+        "artist": "Rufus Wainwright",
+        "title": "Want One",
+        "year": "2003"
+    },
+    {
+        "artist": "The Darkness",
+        "title": "Permission To Land",
+        "year": "2003"
+    },
+    {
+        "artist": "The Thrills",
+        "title": "So Much For The City",
+        "year": "2003"
+    },
+    {
+        "artist": "The White Stripes",
+        "title": "Elephant",
+        "year": "2003"
+    },
+    {
+        "artist": "Yeah Yeah Yeahs",
+        "title": "Fever To Tell",
+        "year": "2003"
+    },
+    {
+        "artist": "Arcade Fire",
+        "title": "Funeral",
+        "year": "2004"
+    },
+    {
+        "artist": "Bjork",
+        "title": "Medulla",
+        "year": "2004"
+    },
+    {
+        "artist": "Brian Wilson",
+        "title": "Smile",
+        "year": "2004"
+    },
+    {
+        "artist": "Cee-Lo Green",
+        "title": "Cee-Lo Green  Is The Soul Machine",
+        "year": "2004"
+    },
+    {
+        "artist": "Devendra Banhart",
+        "title": "Rejoicing In The Hands",
+        "year": "2004"
+    },
+    {
+        "artist": "DeVotchKa",
+        "title": "How It Ends",
+        "year": "2004"
+    },
+    {
+        "artist": "Franz Ferdinand",
+        "title": "Franz Ferdinand",
+        "year": "2004"
+    },
+    {
+        "artist": "Green Day",
+        "title": "American Idiot",
+        "year": "2004"
+    },
+    {
+        "artist": "Kanye West",
+        "title": "The College Dropout",
+        "year": "2004"
+    },
+    {
+        "artist": "Kings Of Leon",
+        "title": "Aha Shake Heartbreak",
+        "year": "2004"
+    },
+    {
+        "artist": "Liars",
+        "title": "They Were Wrong, So We Drowned",
+        "year": "2004"
+    },
+    {
+        "artist": "Morrissey",
+        "title": "You Are The Quarry",
+        "year": "2004"
+    },
+    {
+        "artist": "Mylo",
+        "title": "Destroy Rock And Roll",
+        "year": "2004"
+    },
+    {
+        "artist": "NERD",
+        "title": "Fly Or Die",
+        "year": "2004"
+    },
+    {
+        "artist": "Nick Cave & The Bad Seeds",
+        "title": "Abattoir Blues/Lyre Of Orpheus",
+        "year": "2004"
+    },
+    {
+        "artist": "Ozomatli",
+        "title": "Street Signs",
+        "year": "2004"
+    },
+    {
+        "artist": "Rufus Wainwright",
+        "title": "Want Two",
+        "year": "2004"
+    },
+    {
+        "artist": "Scissor Sisters",
+        "title": "Scissor Sisters",
+        "year": "2004"
+    },
+    {
+        "artist": "The Beta Band",
+        "title": "Heroes To Zeros",
+        "year": "2004"
+    },
+    {
+        "artist": "The Icarus Line",
+        "title": "Penance Soiree",
+        "year": "2004"
+    },
+    {
+        "artist": "The Killers",
+        "title": "Hot Fuss",
+        "year": "2004"
+    },
+    {
+        "artist": "The Libertines",
+        "title": "The Libertines",
+        "year": "2004"
+    },
+    {
+        "artist": "The Streets",
+        "title": "A Grand Don't Come For Free",
+        "year": "2004"
+    },
+    {
+        "artist": "The Zutons",
+        "title": "Who Killed The Zutons?",
+        "year": "2004"
+    },
+    {
+        "artist": "TV On The Radio",
+        "title": "Desperate Youth, Blood Thirsty Babes",
+        "year": "2004"
+    },
+    {
+        "artist": "Antony & The Johnsons",
+        "title": "I Am A Bird Now",
+        "year": "2005"
+    },
+    {
+        "artist": "Beck",
+        "title": "Guero",
+        "year": "2005"
+    },
+    {
+        "artist": "Common",
+        "title": "Be",
+        "year": "2005"
+    },
+    {
+        "artist": "MIA",
+        "title": "Arular",
+        "year": "2005"
+    },
+    {
+        "artist": "Richard Hawley",
+        "title": "Coles Corner",
+        "year": "2005"
+    },
+    {
+        "artist": "Sufjan Stevens",
+        "title": "Illinois",
+        "year": "2005"
+    },
+    {
+        "artist": "The White Stripes",
+        "title": "Get Behind Me Satan",
+        "year": "2005"
+    },
+    {
+        "artist": "Ali Farka Toure",
+        "title": "Savane",
+        "year": "2006"
+    },
+    {
+        "artist": "Amy Winehouse",
+        "title": "Back To Black",
+        "year": "2006"
+    },
+    {
+        "artist": "Arctic Monkeys",
+        "title": "Whatever People Say I Am, That's What I'm Not",
+        "year": "2006"
+    },
+    {
+        "artist": "Christina Aguilera",
+        "title": "Back To Basics",
+        "year": "2006"
+    },
+    {
+        "artist": "Ghostface Killah",
+        "title": "Fishscale",
+        "year": "2006"
+    },
+    {
+        "artist": "Joanna Newsom",
+        "title": "Ys",
+        "year": "2006"
+    },
+    {
+        "artist": "Lupe Fiasco",
+        "title": "Food & Liquour",
+        "year": "2006"
+    },
+    {
+        "artist": "Muse",
+        "title": "Black Holes And Revelations",
+        "year": "2006"
+    },
+    {
+        "artist": "The Killers",
+        "title": "Sam's Town",
+        "year": "2006"
+    },
+    {
+        "artist": "Arcade Fire",
+        "title": "Neon Bible",
+        "year": "2007"
+    },
+    {
+        "artist": "Justice",
+        "title": "Cross",
+        "year": "2007"
+    },
+    {
+        "artist": "LCD Soundsystem",
+        "title": "Sound Of Silver",
+        "year": "2007"
+    },
+    {
+        "artist": "MIA",
+        "title": "Kala",
+        "year": "2007"
+    },
+    {
+        "artist": "MGMT",
+        "title": "Oracular Spectacular",
+        "year": "2007"
+    },
+    {
+        "artist": "Radiohead",
+        "title": "In Rainbows",
+        "year": "2007"
+    },
+    {
+        "artist": "The Good, The Bad & The Queen",
+        "title": "The Good, The Bad And The Queen",
+        "year": "2007"
+    },
+    {
+        "artist": "The Klaxons",
+        "title": "Myths Of The Near Future",
+        "year": "2007"
+    },
+    {
+        "artist": "Elbow",
+        "title": "The Seldom Seen Kid",
+        "year": "2008"
+    },
+    {
+        "artist": "Fleet Foxes",
+        "title": "Fleet Foxes",
+        "year": "2008"
+    },
+    {
+        "artist": "Goldfrapp",
+        "title": "Seventh Tree",
+        "year": "2008"
+    },
+    {
+        "artist": "Portishead",
+        "title": "Third",
+        "year": "2008"
+    },
+    {
+        "artist": "Q-Tip",
+        "title": "The Renaissance",
+        "year": "2008"
+    },
+    {
+        "artist": "Slipknot",
+        "title": "All Hope Is Gone",
+        "year": "2008"
+    },
+    {
+        "artist": "TV On The Radio",
+        "title": "Dear Science",
+        "year": "2008"
+    },
+    {
+        "artist": "Animal Collective",
+        "title": "Merriweather Post Pavilion",
+        "year": "2009"
+    },
+    {
+        "artist": "Bill Callahan",
+        "title": "Sometimes I Wish We Were An Eagle",
+        "year": "2009"
+    },
+    {
+        "artist": "Dirty Projectors",
+        "title": "Bitte Orca",
+        "year": "2009"
+    },
+    {
+        "artist": "Fever Ray",
+        "title": "Fever Ray",
+        "year": "2009"
+    },
+    {
+        "artist": "Grizzly Bear",
+        "title": "Veckatimest",
+        "year": "2009"
+    },
+    {
+        "artist": "The XX",
+        "title": "XX",
+        "year": "2009"
+    },
+    {
+        "artist": "Wild Beasts",
+        "title": "Two Dancers",
+        "year": "2009"
+    },
+    {
+        "artist": "Yeah Yeah Yeahs",
+        "title": "It's Blitz!",
+        "year": "2009"
+    },
+    {
+        "artist": "Arcade Fire",
+        "title": "The Suburbs",
+        "year": "2010"
+    },
+    {
+        "artist": "Beach House",
+        "title": "Teen Dream",
+        "year": "2010"
+    },
+    {
+        "artist": "Deerhunter",
+        "title": "Halcyon Digest",
+        "year": "2010"
+    },
+    {
+        "artist": "Janelle Monae",
+        "title": "The ArchAndroid",
+        "year": "2010"
+    },
+    {
+        "artist": "John Grant",
+        "title": "Queen Of Demark",
+        "year": "2010"
+    },
+    {
+        "artist": "Kanye West",
+        "title": "My Beautiful Dark Twisted Fantasy",
+        "year": "2010"
+    },
+    {
+        "artist": "The Black Keys",
+        "title": "Brothers",
+        "year": "2010"
+    },
+    {
+        "artist": "The National",
+        "title": "High Violet",
+        "year": "2010"
+    }
+]
