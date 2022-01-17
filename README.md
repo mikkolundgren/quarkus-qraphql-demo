@@ -69,6 +69,39 @@ mutation deleteAlbum {
 }
 ```
 
+## K8s stuff
+
+Leave minikube extension commented out in pom.xml and set kube context to docker-desktop for deploying to docker-desktop cluster:
+```
+# switch to docker-desktop
+kubectl config use docker-desktop
+
+# build and deploy
+mvn clean package -Dquarkus.kubernetes.deploy=true
+
+# test the service
+curl localhost:30585/q/health/live
+```
+
+Running in minikube cluster with minikube extension and docker driver. Uncomment the minikube etension in pom.xml.
+
+```
+# set the needed env variables for minikubes docker daemon
+eval $(minikube -p minikube docker-env)
+
+# make sure minikube is running
+minikube service list
+
+# build and deploy
+mvn clean package -Dquarkus.kubernetes.deploy=true
+
+# start minikube tunneling...
+minikube service --url quarkus-graphql-demo
+
+# test the service
+curl <URL>:<PORT>/q/health/live
+```
+
 ## Running the application in dev mode
 
 You can run your application in dev mode that enables live coding using:
